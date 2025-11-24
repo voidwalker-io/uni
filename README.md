@@ -1,4 +1,4 @@
-⚖️ Recht-Quiz – Web App zur Prüfungsvorbereitung<br>
+⚖️ VeraLex – Web App zur Prüfungsvorbereitung<br>
 
 Eine interaktive Lern-App zur Vorbereitung auf die Rechtsprüfung (Öffentliches Recht, Zivilrecht, EU-Recht usw.).<br>
 Die App stellt Wahr/Falsch-Fragen aus einem dynamischen Fragenpool, wertet die Antworten in Echtzeit aus und berechnet eine Note basierend auf dem offiziellen Notenspiegel der Lehrveranstaltung.<br>
