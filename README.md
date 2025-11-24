@@ -23,25 +23,24 @@ Persistence: LocalStorage API<br>
 Voraussetzung: Node.js ist installiert (empfohlen ab Version 18).<br>
    
 1. Repository klonen<br>
-   
-Lade den Code auf deinen lokalen Rechner:<br>
-git clone https://github.com/voidwalker-io/uni.git<br>
+Lade den Code herunter und gehe in den Ordner:<br>
+git clone [https://github.com/voidwalker-io/uni.git](https://github.com/voidwalker-io/uni.git)<br>
 cd uni<br>
 
-2. Abhängigkeiten installieren<br>
+2. Branch wechseln (Wichtig!)<br>
+Der aktuelle Code befindet sich im Branch GÖRP. Wechsle dorthin:<br>
+git checkout GÖRP<br>
 
-Installiere die benötigten Pakete (Express, etc.):<br>
+
+3. Abhängigkeiten installieren<br>
+Lade die benötigten Pakete herunter:<br>
 npm install<br>
 
-3. App starten<br>
-
+4. App starten<br>
 Starte den lokalen Server:<br>
 node server.js<br>
-oder, falls ein Start-Script definiert ist:<br>
-npm start<br>
 
-
-Öffne danach deinen Browser und gehe auf: http://localhost:3000 (oder den in der Konsole angezeigten Port).<br>
+Öffne danach deinen Browser und gehe auf: http://localhost:3000.<br>
 
 📂 Datenstruktur (questions.json)<br>
 
