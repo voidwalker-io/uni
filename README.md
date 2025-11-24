@@ -36,7 +36,7 @@ npm install
 
 Starte den lokalen Server:
 node server.js
-# oder, falls ein Start-Script definiert ist:
+oder, falls ein Start-Script definiert ist:
 npm start
 
 
