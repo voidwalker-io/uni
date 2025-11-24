@@ -5,7 +5,6 @@ Die App stellt Wahr/Falsch-Fragen aus einem dynamischen Fragenpool, wertet die A
 
 ✨ Features<br>
 Interaktives Quiz: Wahr/Falsch-Fragen aus Altklausuren und einem erweiterbaren Fragenpool.<br>
-
 Flexible Lernsitzungen: Auswahl der Anzahl der Fragen pro Durchlauf.<br>
 
 Sofortiges Feedback:<br>
