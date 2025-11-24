@@ -20,12 +20,12 @@ Persistence: LocalStorage API
 
 🚀 Installation & Setup
 Voraussetzung: Node.js ist installiert (empfohlen ab Version 18).
-
+   
 1. Repository klonen
    
 Lade den Code auf deinen lokalen Rechner:
-git clone <DEIN_REPO_URL_HIER_EINFÜGEN>
-cd <DEIN_REPO_ORDNER_NAME>
+git clone https://github.com/voidwalker-io/uni.git
+cd uni
 
 2. Abhängigkeiten installieren
 
