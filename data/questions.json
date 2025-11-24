@@ -1,0 +1,2658 @@
+[
+  {
+    "id": "Q01",
+    "statement": "In den Angelegenheiten der örtlichen Raumplanung (Art 118 Abs. 3 Z 9 B-VG) kann die Landesregierung der Gemeinde Weisungen erteilen.",
+    "correctAnswer": false,
+    "topic": "Gemeinden und Selbstverwaltung",
+    "source": "Fragenpool ÖffR",
+    "points": 1,
+    "explanation": "Die örtliche Raumplanung gehört zum eigenen Wirkungsbereich der Gemeinden. In diesem Bereich sind Gemeinden weisungsfrei; Bund und Land dürfen nur Rechtsaufsicht ausüben (Kontrolle der Gesetzmäßigkeit), aber keine inhaltlichen Weisungen erteilen."
+  },
+  {
+    "id": "Q02",
+    "statement": "Der Magistrat einer Statutarstadt hat sowohl die Aufgaben der Gemeindeverwaltung als auch jene der Bezirksverwaltung wahrzunehmen.",
+    "correctAnswer": true,
+    "topic": "Staatsorganisation – Verwaltung",
+    "source": "Fragenpool ÖffR",
+    "points": 1,
+    "explanation": "Statutarstädte sind Städte mit eigenem Statut, die gleichzeitig Gemeinde und politischer Bezirk sind. Ihr Magistrat nimmt daher sowohl die Aufgaben der Gemeindeverwaltung als auch jene einer Bezirksverwaltungsbehörde wahr."
+  },
+  {
+    "id": "Q03",
+    "statement": "Eine (fiktive) Vorschrift lautet: \"Die Austro Control GmbH hat die Mindestflughöhe für Luftfahrzeuge durch Verordnung festzulegen.\" Es handelt sich dabei um den Fall einer Beleihung.",
+    "correctAnswer": true,
+    "topic": "Verwaltungsrecht – Organisationsformen",
+    "source": "Fragenpool ÖffR",
+    "points": 1,
+    "explanation": "Bei einer Beleihung werden hoheitliche Befugnisse durch Gesetz auf einen Rechtsträger des Privatrechts übertragen. Wenn eine GmbH (Austro Control) durch Verordnung Mindestflughöhen festlegt, übt sie hoheitliche Normsetzungsbefugnis aus und ist damit ein typisches Beispiel für Beleihung."
+  },
+  {
+    "id": "Q04",
+    "statement": "In den Angelegenheiten des Elektrizitätswesens ist der Landeshauptmann gegenüber der Bezirksverwaltungsbehörde weisungsberechtigt.",
+    "correctAnswer": false,
+    "topic": "Kompetenzverteilung Bund/Länder",
+    "source": "Fragenpool ÖffR",
+    "points": 1,
+    "explanation": "Das Elektrizitätswesen (soweit es nicht in den Bundeskompetenzkatalog fällt) ist Landessache. In Landesangelegenheiten ist die Bezirksverwaltungsbehörde der Landesregierung weisungsgebunden, nicht dem Landeshauptmann als Organ der mittelbaren Bundesverwaltung."
+  },
+  {
+    "id": "Q05",
+    "statement": "Die Mitglieder der Bundesregierung werden vom Nationalrat bestellt.",
+    "correctAnswer": false,
+    "topic": "Staatsorgane – Bundesregierung",
+    "source": "Fragenpool ÖffR",
+    "points": 1,
+    "explanation": "Die Bundesregierung (Bundeskanzler:in und Bundesminister:innen) wird vom Bundespräsidenten ernannt. Der Nationalrat kontrolliert die Bundesregierung politisch (z.B. durch Misstrauensvotum), bestellt sie aber nicht formell."
+  },
+  {
+    "id": "Q06",
+    "statement": "Volksbegehren zählen zu den Elementen mittelbarer Demokratie.",
+    "correctAnswer": false,
+    "topic": "Demokratieprinzip",
+    "source": "Fragenpool ÖffR",
+    "points": 1,
+    "explanation": "Mittelbare (repräsentative) Demokratie bedeutet, dass politische Entscheidungen über gewählte Vertretungskörperschaften erfolgen. Volksbegehren sind hingegen ein Instrument unmittelbarer bzw. direkter Demokratie, weil Bürger:innen direkt an der Willensbildung mitwirken."
+  },
+  {
+    "id": "Q07",
+    "statement": "Der Beitritt Österreichs zur Europäischen Union bedurfte einer Änderung der Verfassung, die wegen der damit verbundenen Änderung des demokratischen Grundprinzips zwingend auch einer Volksabstimmung unterzogen werden musste.",
+    "correctAnswer": true,
+    "topic": "EU-Recht und Verfassung",
+    "source": "Fragenpool ÖffR",
+    "points": 1,
+    "explanation": "Der EU-Beitritt stellte eine Gesamtänderung der Bundesverfassung dar, weil insbesondere das demokratische und das bundesstaatliche Grundprinzip intensiv berührt wurden. Gesamtänderungen müssen nach Art. 44 Abs. 3 B-VG zwingend einer Volksabstimmung unterzogen werden; diese fand 1994 zum EU-Beitritt statt."
+  },
+  {
+    "id": "Q08",
+    "statement": "Die Mitglieder des Bundesrats werden vom jeweiligen Landeshauptmann / der Landeshauptfrau bestellt.",
+    "correctAnswer": false,
+    "topic": "Staatsorgane – Bundesrat",
+    "source": "Fragenpool ÖffR",
+    "points": 1,
+    "explanation": "Die Mitglieder des Bundesrates werden von den Landtagen nach dem Stärkeverhältnis der Parteien gewählt. Der Landeshauptmann bzw. die Landeshauptfrau hat kein eigenes Bestellungsrecht für Bundesratsmitglieder."
+  },
+  {
+    "id": "Q09",
+    "statement": "Gegenstand der Verfassung ist unter anderem auch, die staatliche Macht zu begrenzen.",
+    "correctAnswer": true,
+    "topic": "Verfassungsbegriff und Grundprinzipien",
+    "source": "Fragenpool ÖffR",
+    "points": 1,
+    "explanation": "Eine zentrale Funktion der Verfassung im demokratischen Rechtsstaat ist die Begrenzung und Bindung staatlicher Macht. Sie ordnet die Staatsorgane, verteilt Zuständigkeiten und garantiert Grund- und Freiheitsrechte gegenüber dem Staat."
+  },
+  {
+    "id": "Q10",
+    "statement": "Ohne die ausdrückliche Bezeichnung als Verfassungsgesetz oder Verfassungsbestimmung kann zwar Verfassungsrecht im materiellen Sinn, nicht aber Verfassungsrecht im formellen Sinn erzeugt werden.",
+    "correctAnswer": true,
+    "topic": "Verfassungsrecht – formell/materiell",
+    "source": "Fragenpool ÖffR",
+    "points": 1,
+    "explanation": "Formelles Verfassungsrecht liegt nur bei Normen vor, die im besonderen Verfassungsgebungsverfahren erlassen werden und ausdrücklich als Verfassungsgesetz oder Verfassungsbestimmung gekennzeichnet sind. Normen mit verfassungsrechtlichem Inhalt ohne diese Form gelten nur als Verfassungsrecht im materiellen Sinn."
+  },
+  {
+    "id": "Q11",
+    "statement": "Wenn die Bundesministerin für Verteidigung den Auftrag für die Errichtung einer neuen Kaserne an das Unternehmen ALPEN-BAU vergibt, handelt es sich dabei um einen Akt der Hoheitsverwaltung.",
+    "correctAnswer": false,
+    "topic": "Verwaltungsrecht – Hoheits- vs. Privatwirtschaftsverwaltung",
+    "source": "Fragenpool ÖffR",
+    "points": 1,
+    "explanation": "Vergibt der Staat einen Bauauftrag an ein Unternehmen auf Grundlage eines zivilrechtlichen Vertrages, handelt er wie ein Privater in der Privatwirtschaftsverwaltung. Hoheitsverwaltung liegt nur vor, wenn der Staat mit hoheitlichen Mitteln (z.B. Bescheid, Verordnung) gegenüber Bürger:innen auftritt."
+  },
+  {
+    "id": "Q12",
+    "statement": "Die Mitglieder der Europäischen Kommission werden durch Volkswahl bestimmt.",
+    "correctAnswer": false,
+    "topic": "EU-Institutionen",
+    "source": "Fragenpool EU-Recht",
+    "points": 1,
+    "explanation": "Die Kommissionsmitglieder werden von den Mitgliedstaaten vorgeschlagen und vom Europäischen Parlament gemeinsam mit der Kommissionspräsidentin bzw. dem Kommissionspräsidenten bestätigt. Eine direkte Volkswahl der Kommission gibt es nicht."
+  },
+  {
+    "id": "Q13",
+    "statement": "Ein Verordnungsprüfungsverfahren beim Verfassungsgerichtshof kann bei Vorliegen bestimmter Voraussetzungen auch von Einzelpersonen eingeleitet werden.",
+    "correctAnswer": true,
+    "topic": "Verfassungsgerichtshof – Normenkontrolle",
+    "source": "Fragenpool ÖffR",
+    "points": 1,
+    "explanation": "Neben Anträgen von Gerichten und bestimmten Organen können auch Einzelpersonen einen Individualantrag an den Verfassungsgerichtshof stellen, wenn sie durch eine Verordnung unmittelbar in ihren Rechten verletzt sind und kein anderer zumutbarer Weg zur Beseitigung der Rechtsverletzung offensteht."
+  },
+  {
+    "id": "Q14",
+    "statement": "Unter der \"autonomen Geltung\" des EU-Rechts versteht man, dass das EU Recht von den staatlichen Behörden unmittelbar anzuwenden ist.",
+    "correctAnswer": false,
+    "topic": "EU-Recht – Grundprinzipien",
+    "source": "Fragenpool EU-Recht",
+    "points": 1,
+    "explanation": "Die autonome Geltung des Unionsrechts bedeutet, dass die EU eine eigene Rechtsordnung mit eigenständigen Rechtsquellen und Auslegungsmaßstäben bildet. Die unmittelbare Anwendbarkeit oder unmittelbare Wirkung einzelner Normen (z.B. Verordnungen, hinreichend bestimmte Richtlinien) ist ein anderer, davon zu unterscheidender Begriff."
+  },
+  {
+    "id": "Q15",
+    "statement": "Ordnet die Bezirksverwaltungsbehörde im Fall eines drohenden Felssturzes per Radio- und Fernsehaussendung die sofortige Räumung eines bestimmten Teils einer Gemeinde an, so handelt es sich dabei um einen Bescheid.",
+    "correctAnswer": false,
+    "topic": "Verwaltungsakte – Bescheid und Verordnung",
+    "source": "Fragenpool ÖffR",
+    "points": 1,
+    "explanation": "Ein Bescheid richtet sich an eine oder mehrere individuell bestimmte Personen. Eine Räumungsanordnung, die durch Radio und Fernsehen an alle Personen in einem bestimmten Gebiet gerichtet wird, ist abstrakt-generell und daher als Verordnung (Sicherheits- bzw. Katastrophenverordnung) zu qualifizieren."
+  },
+  {
+    "id": "Q16",
+    "statement": "§ 107a StGB lautet: \"Wer eine andere Person widerrechtlich beharrlich verfolgt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.\" Der erste Satzteil (\"Wer eine andere Person widerrechtlich beharrlich verfolgt\") beschreibt den Tatbestand der Rechtsnorm.",
+    "correctAnswer": true,
+    "topic": "Allgemeines Strafrecht – Aufbau der Norm",
+    "source": "Fragenpool Strafrecht",
+    "points": 1,
+    "explanation": "Strafnormen bestehen typischerweise aus Tatbestand (Beschreibung des verbotenen Verhaltens) und Rechtsfolge (Strafdrohung). Der Teil „Wer eine andere Person widerrechtlich beharrlich verfolgt“ umschreibt das strafbare Verhalten und bildet somit den Tatbestand, während der anschließende Teil die Rechtsfolge regelt."
+  },
+  {
+    "id": "Q17",
+    "statement": "\"Planungsfunktion\" des Rechts bedeutet, dass auch die staatliche Gewalt an das Recht gebunden ist.",
+    "correctAnswer": false,
+    "topic": "Funktionen des Rechts",
+    "source": "Fragenpool Rechtstheorie",
+    "points": 1,
+    "explanation": "Die Planungsfunktion des Rechts meint, dass Recht zukünftiges Verhalten steuert und gesellschaftliche Entwicklungen planbar macht (z.B. Raumordnungsrecht, Budgetrecht). Die Bindung der staatlichen Gewalt an das Recht ist Ausdruck des Rechtsstaatsprinzips und wird als Rechtsbindungs- oder Begrenzungsfunktion des Rechts beschrieben."
+  },
+  {
+    "id": "Q18",
+    "statement": "Eine arbeitsrechtliche Bestimmung sieht vor, dass der Urlaubsanspruch des Arbeitnehmers/der Arbeitnehmerin nach zwei Jahren verfällt (= nicht mehr in Anspruch genommen werden kann). Es ist zulässig, im Arbeitsvertrag zu vereinbaren, dass der Urlaubsanspruch bereits nach einem Jahr verfällt.",
+    "correctAnswer": false,
+    "topic": "Arbeitsrecht – Urlaub",
+    "source": "Fragenpool Arbeitsrecht",
+    "points": 1,
+    "explanation": "Zwingende arbeitsrechtliche Schutzbestimmungen (wie Mindesturlaubsansprüche und Verfallsfristen) dürfen durch Einzelvertrag grundsätzlich nicht zum Nachteil der Arbeitnehmer:innen unterschritten werden. Eine kürzere Verfallsfrist im Arbeitsvertrag wäre daher unwirksam, weil sie das gesetzliche Mindestniveau unterschreitet."
+  },
+  {
+    "id": "Q19",
+    "statement": "Die Schlussbestimmung eines Gesetzes lautet: \"§ 78 tritt mit 31.12.2025 außer Kraft.\" Es handelt sich dabei um eine formelle Derogation.",
+    "correctAnswer": true,
+    "topic": "Rechtsquellen – Derogation",
+    "source": "Fragenpool Allgemeiner Teil",
+    "points": 1,
+    "explanation": "Von formeller Derogation spricht man, wenn das Außerkrafttreten einer Norm ausdrücklich angeordnet wird, etwa durch eine Aufhebungs- oder Befristungsbestimmung. Die genannte Klausel hebt § 78 zu einem bestimmten Zeitpunkt ausdrücklich auf und ist daher ein Beispiel formeller Derogation."
+  },
+  {
+    "id": "Q20",
+    "statement": "§ 4 Abs 1 Straßenverkehrsordnung (StVO) lautet (auszugsweise): \"Alle Personen, deren Verhalten am Unfallsort mit einem Verkehrsunfall in ursächlichem Zusammenhang steht, haben, wenn sie ein Fahrzeug lenken, sofort anzuhalten ...\". Es handelt sich dabei um Recht im objektiven Sinn.",
+    "correctAnswer": true,
+    "topic": "Rechtsbegriffe – subjektives/objektives Recht",
+    "source": "Fragenpool Allgemeiner Teil",
+    "points": 1,
+    "explanation": "Recht im objektiven Sinn bezeichnet die Gesamtheit der generellen Rechtsnormen, die in einem Staat gelten. Die genannte Bestimmung der StVO ist eine allgemein gültige Verhaltensnorm und damit typisches objektives Recht, nicht ein individuelles subjektives Recht einer bestimmten Person."
+  },
+  {
+    "id": "Q21",
+    "statement": "Marlene hat bei Florian ein Wandregal bestellt. Florian liefert pünktlich, Marlene weigert sich aber, das Wandregal zu übernehmen, weil sie es sich anders überlegt hat. Sie will auch den vereinbarten Preis nicht bezahlen. Marlene befindet sich im Schuldner- und im Gläubigerverzug.",
+    "correctAnswer": true,
+    "topic": "Schuldrecht – Verzug",
+    "source": "Fragenpool Zivilrecht",
+    "points": 1,
+    "explanation": "Als Käuferin ist Marlene Schuldnerin der Kaufpreiszahlung und Gläubigerin des Lieferanspruchs. Sie nimmt die ordnungsgemäße Lieferung nicht an (Annahmeverzug = Gläubigerverzug) und zahlt den fälligen Kaufpreis nicht (Zahlungsverzug = Schuldnerverzug), sodass sie sich in beiden Verzugsarten befindet."
+  },
+  {
+    "id": "Q22",
+    "statement": "Melanie hat bei der Tischlerin Roswitha einen Gartentisch bestellt. Dieser soll am 15.07.2025 geliefert werden. Wenn Roswitha den Tisch am 15.07.2025 nicht liefert, kann Melanie mit sofortiger Wirkung vom Vertrag zurücktreten und Schadenersatz fordern.",
+    "correctAnswer": false,
+    "topic": "Schuldrecht – Verzug und Rücktritt",
+    "source": "Fragenpool Zivilrecht",
+    "points": 1,
+    "explanation": "Bei Lieferverzug kann die Gläubigerin grundsätzlich erst nach Setzung einer angemessenen Nachfrist vom Vertrag zurücktreten und gegebenenfalls Schadenersatz wegen Nichterfüllung verlangen (§ 918 ABGB). Ein sofortiger Rücktritt ohne Nachfrist ist nur bei echten oder vereinbarten Fixgeschäften bzw. besonderen Umständen möglich, die hier nicht ersichtlich sind."
+  },
+  {
+    "id": "Q23",
+    "statement": "Wenn die Rechtsanwältin Christine beim Verlag Österreich die neueste Auflage des Kommentars zum ABGB kauft, so ist auf diesen Vertrag das Verbrauchergwährleistungsgesetz (VGG) nicht anzuwenden.",
+    "correctAnswer": true,
+    "topic": "Verbraucherrecht – VGG",
+    "source": "Fragenpool Zivilrecht",
+    "points": 1,
+    "explanation": "Das VGG gilt nur für Gewährleistungsansprüche in Verbraucherverträgen, also wenn eine Verbraucher:in von einem Unternehmer eine Ware oder digitale Leistung erwirbt. Kauft eine Rechtsanwältin Fachliteratur für ihre berufliche Tätigkeit, handelt sie typischerweise als Unternehmerin; damit liegt kein Verbrauchergeschäft vor und das VGG ist nicht anwendbar."
+  },
+  {
+    "id": "Q24",
+    "statement": "Luise kauft von Herbert dessen gebrauchtes Fahrrad. Die Übergabe soll am 01.07.2025 stattfinden. Wenn das Fahrrad am 30.06.2025 aus dem Keller des Herbert gestohlen wird, so muss Herbert ein Ersatzfahrrad für Elisabeth beschaffen.",
+    "correctAnswer": false,
+    "topic": "Schuldrecht – Unmöglichkeit / Stückschuld",
+    "source": "Fragenpool Zivilrecht",
+    "points": 1,
+    "explanation": "Bei einem Kauf über ein individuell bestimmtes Stück (Stückschuld) wird bei zufälligem Untergang vor Übergabe die Leistung objektiv unmöglich. Trifft den Verkäufer kein Verschulden und hat er kein Beschaffungsrisiko übernommen, muss er kein gleichwertiges Ersatzstück beschaffen; der Vertrag fällt vielmehr weg, gegebenenfalls mit Rückabwicklung bereits erbrachter Leistungen."
+  },
+  {
+    "id": "Q25",
+    "statement": "Wenn Rosalinde beim Elektrohändler Peter eine Waschmaschine kauft und nach der Lieferung feststellt, dass die Waschmaschine nicht funktioniert, so kann sie sofort Wandlung verlangen.",
+    "correctAnswer": false,
+    "topic": "Gewährleistungsrecht",
+    "source": "Fragenpool Zivilrecht",
+    "points": 1,
+    "explanation": "Bei Gewährleistungsmängeln stehen primär Verbesserung oder Austausch zu. Eine sofortige Vertragsauflösung (Wandlung) kommt nur in Betracht, wenn der Mangel nicht behoben werden kann oder eine Verbesserung bzw. ein Austausch für die Käuferin unzumutbar ist. Ein bloßer Funktionsmangel rechtfertigt ohne weiteres Nachbesserungsverlangen noch keinen sofortigen Wandlungsanspruch."
+  },
+  {
+    "id": "Q26",
+    "statement": "Schadenersatzansprüche verjähren nach drei Jahren ab Schadenseintritt.",
+    "correctAnswer": false,
+    "topic": "Verjährung im Schadenersatzrecht",
+    "source": "Fragenpool Zivilrecht",
+    "points": 1,
+    "explanation": "Nach § 1489 ABGB verjähren Schadenersatzansprüche grundsätzlich in drei Jahren ab dem Zeitpunkt, in dem der Geschädigte von Schaden und Schädiger Kenntnis erlangt. Eine starre Frist ausschließlich ab Schadenseintritt ist daher unzutreffend; zusätzlich gibt es eine längere absolute Verjährungsfrist."
+  },
+  {
+    "id": "Q27",
+    "statement": "Ernst verkauft Luise mit Kaufvertrag vom 05.04.2025 seine Villa am Wörthersee um 1,8 Millionen EURO. Luise wird erst mit der Eintragung im Grundbuch Eigentümerin der Villa.",
+    "correctAnswer": true,
+    "topic": "Sachenrecht – Liegenschaften",
+    "source": "Fragenpool Zivilrecht",
+    "points": 1,
+    "explanation": "Bei unbeweglichen Sachen (Liegenschaften) ist in Österreich für den Eigentumserwerb neben dem gültigen Titel (z.B. Kaufvertrag) der Modus, nämlich die Eintragung (Einverleibung) im Grundbuch, erforderlich. Luise wird daher erst mit der grundbücherlichen Eintragung Eigentümerin der Villa."
+  },
+  {
+    "id": "Q28",
+    "statement": "Ein medizinischer Eingriff ist dann keine rechtswidrige Körperverletzung, wenn die betroffene Person vorab die Einwilligung für den Eingriff erteilt hat.",
+    "correctAnswer": true,
+    "topic": "Medizinrecht / Deliktsrecht",
+    "source": "Fragenpool Zivilrecht",
+    "points": 1,
+    "explanation": "Ein ärztlicher Eingriff stellt grundsätzlich eine Körperverletzung dar, kann aber durch wirksame Einwilligung der aufgeklärten Patient:in rechtlich gerechtfertigt sein. Liegt eine solche Einwilligung vor und wird lege artis gehandelt, entfällt die Rechtswidrigkeit des Eingriffs."
+  },
+  {
+    "id": "Q29",
+    "statement": "Ernst hat mit dem Dachdecker Rudolf einen Vertrag über die Reparatur seines Hausdachs abgeschlossen. Wenn der bei Rudolf angestellte Lehrling Ludwig durch eine Unachtsamkeit mehrere Dachziegel fallen lässt und dabei den Fliesenboden des Ernst beschädigt, so kann Ernst wahlweise von Rudolf oder von Ludwig Schadenersatz für den Schaden am Fliesenboden verlangen.",
+    "correctAnswer": false,
+    "topic": "Schadenersatz – Erfüllungsgehilfe",
+    "source": "Fragenpool Zivilrecht",
+    "points": 1,
+    "explanation": "Verletzt ein Erfüllungsgehilfe (hier der Lehrling) bei der Vertragserfüllung Pflichten gegenüber dem Vertragspartner, haftet grundsätzlich der Unternehmer (Rudolf) für dieses Verhalten wie für eigenes Verschulden. Der Geschädigte macht seine Ansprüche primär gegen den Vertragspartner geltend; eine „Wahlmöglichkeit“ zwischen Unternehmer und Arbeitnehmer besteht in dieser Pauschalität nicht."
+  },
+  {
+    "id": "Q30",
+    "statement": "Die entgangene Urlaubsfreude ist ein immaterieller Schaden, der ersatzfähig ist.",
+    "correctAnswer": true,
+    "topic": "Schadenersatz – immaterielle Schäden",
+    "source": "Fragenpool Zivilrecht",
+    "points": 1,
+    "explanation": "Bei erheblichen Mängeln von Pauschalreisen erkennt das österreichische Recht einen Anspruch auf Geldersatz wegen entgangener Urlaubsfreude als immateriellen Schaden an. Die Möglichkeit eines solchen Ersatzes ergibt sich aus unionsrechtlichen Vorgaben und ist heute ausdrücklich im Pauschalreisegesetz verankert."
+  },
+  {
+    "id": "Q31",
+    "statement": "Die 16-jährige Schülerin Sabrina schließt mit der Krankenhaus-Betriebsgesellschaft einen Vertrag über einen Ferialjob in der Wäscherei des Krankenhauses ab. Der Vertrag kommt auch ohne Zustimmung der Eltern gültig zustande.",
+    "correctAnswer": true,
+    "topic": "Arbeitsrecht / Geschäftsfähigkeit",
+    "source": "Fragenpool Zivilrecht",
+    "points": 1,
+    "explanation": "Minderjährige ab 15 Jahren können grundsätzlich Dienstverträge über ein Arbeitsverhältnis abschließen, sofern keine besonderen Schutzbestimmungen verletzt werden. Die Zustimmung der Eltern ist für einen üblichen Ferialjob in der Regel keine Gültigkeitsvoraussetzung des Arbeitsvertrags, wenngleich Aufsichts- und Schutzvorschriften zu beachten sind."
+  },
+  {
+    "id": "Q32",
+    "statement": "§ 905 ABGB lautet: \"Kann der Erfüllungsort weder aus der Verabredung noch aus der Natur oder dem Zwecke des Geschäftes bestimmt werden, so ist an dem Orte zu leisten, wo der Schuldner zur Zeit des Vertragsabschlusses seinen Wohnsitz hatte.\" Es handelt sich um eine Norm des dispositiven Rechts.",
+    "correctAnswer": true,
+    "topic": "Allgemeiner Teil – dispositives/zwingendes Recht",
+    "source": "Fragenpool Zivilrecht",
+    "points": 1,
+    "explanation": "Dispositives Recht gilt nur, soweit die Parteien nichts anderes vereinbart haben. § 905 ABGB ordnet den Erfüllungsort nur für den Fall an, dass sich aus Vertrag, Natur oder Zweck des Geschäfts nichts anderes ergibt; er kann durch Parteivereinbarung abgeändert werden und ist daher dispositiv."
+  },
+  {
+    "id": "Q33",
+    "statement": "Die Geschäftsfähigkeit ist immer für eine bestimmte Person in einem konkreten Zusammenhang zu prüfen.",
+    "correctAnswer": false,
+    "topic": "Geschäftsfähigkeit",
+    "source": "Fragenpool Zivilrecht",
+    "points": 1,
+    "explanation": "Die Geschäftsfähigkeit knüpft im ABGB vor allem an generelle Kriterien wie Alter und geistige Reife an (z.B. Kinder, unmündige Minderjährige, mündige Minderjährige, Volljährige). Sie ist daher eine grundsätzliche persönliche Eigenschaft und nicht in jedem Einzelfall „kontextabhängig“ wie etwa die Frage der Deliktsfähigkeit oder Einsichts- und Urteilsfähigkeit."
+  },
+  {
+    "id": "Q34",
+    "statement": "Der 13-jährige Lukas hat 500 EURO gespart. Er bestellt sich über einen Onlinehandel eine Playstation um 450 EURO. Der Vertrag kommt ohne die Zustimmung seiner Eltern nicht gültig zustande.",
+    "correctAnswer": true,
+    "topic": "Geschäftsfähigkeit Minderjähriger",
+    "source": "Fragenpool Zivilrecht",
+    "points": 1,
+    "explanation": "Ein 13-Jähriger ist unmündiger Minderjähriger und damit nur beschränkt geschäftsfähig. Er kann ohne Zustimmung der gesetzlichen Vertreter zwar kleinere Taschengeldgeschäfte abschließen, ein hochpreisiger Kauf wie der einer Spielkonsole überschreitet aber üblicherweise diesen Rahmen und ist ohne elterliche Zustimmung schwebend unwirksam."
+  },
+  {
+    "id": "Q35",
+    "statement": "Die 4-jährige Anna geht in den Supermarkt und kauft Caran D'ache Wasserfarben um 69 EURO. Sie bezahlt auch gleich. Es ist ein gültiger Kaufvertrag zustandegekommen.",
+    "correctAnswer": false,
+    "topic": "Geschäftsfähigkeit von Kindern",
+    "source": "Fragenpool Zivilrecht",
+    "points": 1,
+    "explanation": "Kinder unter 7 Jahren gelten als geschäftsunfähig; ihre rechtsgeschäftlichen Erklärungen sind grundsätzlich nichtig, soweit nicht ausnahmsweise lediglich rechtlich vorteilhafte Geschäfte vorliegen. Ein Kaufvertrag, der eine Zahlungsverpflichtung auslöst, ist für eine 4-Jährige daher ohne Vertretung durch die Eltern nicht gültig."
+  },
+  {
+    "id": "Q36",
+    "statement": "Das Misstrauensvotum ist ein Kontrollrecht des Bundespräsidenten gegenüber der Bundesregierung.",
+    "correctAnswer": false,
+    "topic": "Staatsorganisation – Kontrolle der Bundesregierung",
+    "source": "Fragenpool ÖffR",
+    "points": 1,
+    "explanation": "Ein Misstrauensvotum kann vom Nationalrat gegenüber der gesamten Bundesregierung oder einzelnen Mitgliedern ausgesprochen werden. Der Bundespräsident kann die Bundesregierung entlassen, verfügt aber selbst nicht über ein parlamentarisches Misstrauensvotum als Kontrollinstrument."
+  },
+  {
+    "id": "Q37",
+    "statement": "Ein Veto des Bundesrats kann grundsätzlich durch einen sog. Beharrungsbeschluss des Nationalrats überwunden werden, bei dem mindestens die Hälfte der Mitglieder des Nationalrats anwesend sein müssen.",
+    "correctAnswer": true,
+    "topic": "Bundesrat und Gesetzgebungsverfahren",
+    "source": "Fragenpool ÖffR",
+    "points": 1,
+    "explanation": "Das Veto des Bundesrates gegen ein einfaches Bundesgesetz ist grundsätzlich nur aufschiebend. Der Nationalrat kann mit einem Beharrungsbeschluss an seinem Gesetzesbeschluss festhalten; dafür ist ein Anwesenheitsquorum von mindestens der Hälfte der Mitglieder erforderlich, das Abstimmungsquorum entspricht jenem des ursprünglichen Beschlusses."
+  },
+  {
+    "id": "Q38",
+    "statement": "Bei der Wahl der Landtage sind auch die EU-Bürger:innen wahlberechtigt.",
+    "correctAnswer": false,
+    "topic": "Wahlrecht – Bundesländer",
+    "source": "Fragenpool ÖffR",
+    "points": 1,
+    "explanation": "Das aktive Wahlrecht bei Landtagswahlen steht grundsätzlich nur österreichischen Staatsbürger:innen zu, die die jeweiligen landesrechtlichen Voraussetzungen (z.B. Alter, Wohnsitz) erfüllen. Unionsbürger:innen anderer Mitgliedstaaten sind nur bei Gemeinderats- und Europawahlen wahlberechtigt, nicht aber bei Landtagswahlen."
+  },
+  {
+    "id": "Q39",
+    "statement": "Naturschutz ist in Gesetzgebung und Vollziehung Sache der Bundesländer.",
+    "correctAnswer": true,
+    "topic": "Kompetenzverteilung – Naturschutz",
+    "source": "Fragenpool ÖffR",
+    "points": 1,
+    "explanation": "Die Materie Naturschutz ist in Österreich nicht in den Bundeskompetenzkatalogen aufgezählt und fällt damit nach Art. 15 B-VG in Gesetzgebung und Vollziehung grundsätzlich in die Zuständigkeit der Länder. Entsprechend bestehen Landesnaturschutzgesetze und Landesbehörden für deren Vollzug."
+  },
+  {
+    "id": "Q40",
+    "statement": "Das Recht auf Achtung des Privat- und Familienlebens zählt zu den sogenannten Freiheitsrechten.",
+    "correctAnswer": true,
+    "topic": "Grundrechte – EMRK",
+    "source": "Fragenpool Grundrechte",
+    "points": 1,
+    "explanation": "Das Recht auf Achtung des Privat- und Familienlebens ist in Art. 8 EMRK verankert und in Österreich als verfassungsgesetzlich gewährleistetes Recht anerkannt. Es handelt sich um ein klassisches Freiheits- bzw. Abwehrrecht, das den Einzelnen vor ungerechtfertigten Eingriffen des Staates in seinen privaten Lebensbereich schützt."
+  },
+  {
+    "id": "Q41",
+    "statement": "Die verfassungskonforme Interpretation ist einer Unterfall der teleologischen Interpretation.",
+    "correctAnswer": false,
+    "topic": "Methoden der Gesetzesauslegung",
+    "source": "Fragenpool Allgemeiner Teil",
+    "points": 1,
+    "explanation": "Verfassungskonforme Interpretation bedeutet, dass einfaches Recht möglichst so ausgelegt wird, dass es mit der Verfassung vereinbar bleibt. Sie ist ein übergreifendes Auslegungsgebot, das alle klassischen Auslegungsmethoden (Wortlaut, systematische, historische und teleologische Interpretation) beeinflusst, wird aber nicht lediglich als Unterform der teleologischen Auslegung verstanden."
+  },
+  {
+    "id": "Q42",
+    "statement": "Verordnungen haben gegenüber Bescheiden derogatorische Kraft.",
+    "correctAnswer": true,
+    "topic": "Stufenbau der Rechtsordnung",
+    "source": "Fragenpool ÖffR",
+    "points": 1,
+    "explanation": "Im Stufenbau der Rechtsordnung stehen generelle Normen (Gesetze, Verordnungen) über Einzelfallakten wie Bescheiden. Wird die Rechtsgrundlage eines Bescheids durch eine später erlassene Verordnung geändert oder aufgehoben, kann der Bescheid seine Grundlage verlieren; das wird als derogatorische Kraft der höherrangigen generellen Norm gegenüber nachgeordneten Einzelfallakten beschrieben."
+  },
+  {
+    "id": "Q43",
+    "statement": "Im Stufenbau der Rechtsordnung steht das EU-Recht über dem (einfachen) Bundes- und Landesverfassungsrecht.",
+    "correctAnswer": true,
+    "topic": "EU-Recht und nationaler Stufenbau",
+    "source": "Fragenpool EU-Recht",
+    "points": 1,
+    "explanation": "Durch die integrationsrechtlichen Verfassungsbestimmungen hat Österreich dem Unionsrecht Anwendungsvorrang auch vor einfachem Bundes- und Landesrecht eingeräumt. Einfaches Verfassungsrecht darf dem Unionsrecht nicht widersprechen; Schranken bilden lediglich die tragenden Grundprinzipien der Bundesverfassung, deren Änderung einer neuerlichen Gesamtänderung mit Volksabstimmung bedürfte."
+  },
+  {
+    "id": "Q44",
+    "statement": "Vereine zählen zu den juristischen Personen des Privatrechts.",
+    "correctAnswer": true,
+    "topic": "Juristische Personen",
+    "source": "Fragenpool Zivilrecht",
+    "points": 1,
+    "explanation": "Nach dem Vereinsgesetz sind Vereine auf Dauer angelegte Zusammenschlüsse mit körperschaftlicher Struktur, die auf einen ideellen Zweck gerichtet sind. Sie sind als juristische Personen des Privatrechts rechtsfähig und können selbst Träger von Rechten und Pflichten sein."
+  },
+  {
+    "id": "Q45",
+    "statement": "Die Prüfungsordnung eines Curriculums lautet: \"Bei schriftlichen Klausuren dürfen nur Gesetzestexte (Kodex, RIS-Auszüge) verwendet werden.\" Leitet man daraus ab, dass Lehrbücher nicht verwendet werden dürfen, so zieht man einen Analogieschluss.",
+    "correctAnswer": false,
+    "topic": "Rechtsanwendung – Schlussarten",
+    "source": "Fragenpool Allgemeiner Teil",
+    "points": 1,
+    "explanation": "Ein Analogieschluss erweitert eine Norm auf einen nicht geregelten, aber vergleichbaren Sachverhalt. Aus der ausdrücklichen Zulassung nur bestimmter Hilfsmittel zu schließen, dass andere Hilfsmittel verboten sind, ist hingegen ein Umkehrschluss (argumentum e contrario), nicht eine Analogie."
+  },
+  {
+    "id": "Q46",
+    "statement": "Wird auf einer Webseite ein detailliert beschriebenes Handy mitsamt Preis angeboten, so handelt es sich bei der Präsentation auf der Webseite bereits um ein Angebot im rechtlichen Sinn.",
+    "correctAnswer": false,
+    "topic": "Vertragsrecht – Angebot und Einladung",
+    "source": "Fragenpool Zivilrecht",
+    "points": 1,
+    "explanation": "Produktdarstellungen in Katalogen, Schaufenstern oder auf Webseiten gelten in der Regel als bloße Einladung zur Angebotslegung (invitatio ad offerendum). Das rechtlich verbindliche Angebot gibt meist erst der Kunde durch seine Bestellung ab; der Unternehmer kann diese noch annehmen oder ablehnen."
+  },
+  {
+    "id": "Q47",
+    "statement": "Ein Vertrag über den Kauf von Heroin (= verbotenes Suchtmittel nach österreichischem Recht) ist absolut nichtig.",
+    "correctAnswer": true,
+    "topic": "Vertragsrecht – Sitten- und Gesetzeswidrigkeit",
+    "source": "Fragenpool Zivilrecht",
+    "points": 1,
+    "explanation": "Verträge mit gesetzlich verbotenem oder sittenwidrigem Inhalt sind nach § 879 ABGB nichtig. Der Kaufvertrag über ein nach Suchtmittelrecht verbotenes Rauschgift ist daher absolut nichtig; aus ihm können keine Erfüllungsansprüche abgeleitet werden."
+  },
+  {
+    "id": "Q48",
+    "statement": "Die Kündigung ist ein einseitiges Rechtsgeschäft.",
+    "correctAnswer": true,
+    "topic": "Allgemeiner Teil – Gestaltungsrechte",
+    "source": "Fragenpool Zivilrecht",
+    "points": 1,
+    "explanation": "Eine Kündigung beendet ein Dauerschuldverhältnis (z.B. Miet- oder Arbeitsvertrag) durch eine einseitige empfangsbedürftige Willenserklärung. Ihre Wirksamkeit hängt nicht von einer Zustimmung der Gegenseite ab, sondern nur vom Zugang der Kündigungserklärung und der Einhaltung der rechtlichen Vorgaben."
+  },
+  {
+    "id": "Q49",
+    "statement": "Der Widerruf einer Willenserklärung ist nur so lange einseitig möglich, als die Erklärung dem Erklärungsempfänger noch nicht zugegangen ist.",
+    "correctAnswer": false,
+    "topic": "Allgemeiner Teil – Zugang und Widerruf",
+    "source": "Fragenpool Zivilrecht",
+    "points": 1,
+    "explanation": "Nach dem Zugangskonzept kann ein Widerruf auch dann wirksam sein, wenn er der anderen Partei gleichzeitig mit der ursprünglichen Erklärung oder früher zugeht. Die Aussage ist zu eng, weil sie nur den Zeitpunkt vor dem Zugang der Erklärung erfasst und die Möglichkeit des gleichzeitigen Zugangs außer Acht lässt."
+  },
+  {
+    "id": "Q50",
+    "statement": "Auf einem VW Golf des Gebrauchtwagenhändlers Hubert ist zu lesen: \"VW Golf, Baujahr 2023, 60.000km, 15.000 EURO.\" Elisabeth kauft den Wagen. Wenn sich später herausstellt, dass der Golf tatsächlich schon eine Laufleistung von 65.000km hatte, so kann Elisabeth den Vertrag wegen eines Motivirrtums anfechten und Vertragsaufhebung verlangen.",
+    "correctAnswer": false,
+    "topic": "Irrtumsrecht",
+    "source": "Fragenpool Zivilrecht",
+    "points": 1,
+    "explanation": "Ein Motivirrtum betrifft bloße Beweggründe und ist im Regelfall nicht anfechtbar. Die unrichtige Angabe der Kilometerleistung ist hingegen eine wesentliche Eigenschaft der Sache und damit ein Geschäftsirrtum über den Vertragsinhalt; dieser kann unter den Voraussetzungen des Irrtumsrechts zur Anfechtung führen, ist aber gerade nicht als bloßer Motivirrtum zu qualifizieren."
+  },
+  {
+    "id": "Q51",
+    "statement": "In den Angelegenheiten der örtlichen Raumplanung (= Art 118 Abs 3 Z 9 B-VG) kann die Landesregierung den Gemeinden rechtswirksam keine Weisungen erteilen.",
+    "correctAnswer": true,
+    "topic": "Gemeinden und Selbstverwaltung",
+    "source": "Altklausur ÖffR",
+    "points": 1,
+    "explanation": "Die örtliche Raumplanung ist Teil des eigenen Wirkungsbereichs der Gemeinden. In diesem Bereich sind Gemeinden weisungsfrei, Bund und Land haben nur Rechtsaufsicht. Inhaltliche Weisungen der Landesregierung wären daher rechtswidrig."
+  },
+  {
+    "id": "Q52",
+    "statement": "Wenn ein Gericht im Rahmen eines bei ihm anhängigen Verfahrens zur Auffassung gelangt, dass ein von ihm anzuwendendes Gesetz der Verfassung widerspricht und daraufhin ein Normenkontrollverfahren beim Verfassungsgerichtshof beantragt, dann handelt es sich um einen Fall von abstrakter Normenkontrolle.",
+    "correctAnswer": false,
+    "topic": "Verfassungsgerichtshof – Normenkontrolle",
+    "source": "Altklausur ÖffR",
+    "points": 1,
+    "explanation": "Wird die Verfassungsmäßigkeit eines Gesetzes in einem konkreten Gerichtsverfahren bezweifelt und deshalb der VfGH angerufen, spricht man von konkreter (inzidenter) Normenkontrolle. Abstrakte Normenkontrolle findet dagegen losgelöst von einem konkreten Anlassfall statt."
+  },
+  {
+    "id": "Q53",
+    "statement": "Verwaltungsbehörden sind auch zuständig, das Unionsrecht zu vollziehen.",
+    "correctAnswer": true,
+    "topic": "EU-Recht im innerstaatlichen Vollzug",
+    "source": "Altklausur ÖffR",
+    "points": 1,
+    "explanation": "Ein Großteil des EU-Rechts wird dezentral von den Mitgliedstaaten vollzogen. Nationale Verwaltungsbehörden wenden Unionsrecht an und setzen es als Teil der innerstaatlichen Rechtsordnung um (z.B. im Wettbewerbs-, Umwelt- oder Vergaberecht)."
+  },
+  {
+    "id": "Q54",
+    "statement": "Die Bundesminister:innen werden vom Bundesrat gewählt.",
+    "correctAnswer": false,
+    "topic": "Staatsorgane – Bundesregierung",
+    "source": "Altklausur ÖffR",
+    "points": 1,
+    "explanation": "Die Mitglieder der Bundesregierung (Bundeskanzler:in und Bundesminister:innen) werden vom Bundespräsidenten ernannt. Der Bundesrat wirkt an der Bundesgesetzgebung mit, hat aber keine Wahlkompetenz für Regierungsmitglieder."
+  },
+  {
+    "id": "Q55",
+    "statement": "Die Landeshauptstadt Klagenfurt ist eine sogenannte Statutarstadt. Demnach ist der Magistrat nicht nur Gemeindebehörde, sondern auch Bezirksverwaltungsbehörde.",
+    "correctAnswer": true,
+    "topic": "Staatsorganisation – Statutarstädte",
+    "source": "Altklausur ÖffR",
+    "points": 1,
+    "explanation": "Statutarstädte sind Städte mit eigenem Statut, die zugleich Gemeinde und politischer Bezirk sind. Der Magistrat übernimmt daher sowohl die Aufgaben der Gemeindeverwaltung als auch jene einer Bezirksverwaltungsbehörde."
+  },
+  {
+    "id": "Q56",
+    "statement": "Ein Gesetzgebungsverfahren des Bundes kann auch durch eine Volksabstimmung eingeleitet werden.",
+    "correctAnswer": false,
+    "topic": "Direkte Demokratie – Volksabstimmung",
+    "source": "Altklausur ÖffR",
+    "points": 1,
+    "explanation": "Volksabstimmungen finden in Österreich am Ende des parlamentarischen Gesetzgebungsverfahrens statt, um einen bereits beschlossenen Gesetzesbeschluss zu bestätigen oder abzulehnen. Sie sind kein Instrument zur Einleitung des Gesetzgebungsverfahrens."
+  },
+  {
+    "id": "Q57",
+    "statement": "Unter dem \"differenzierten Legalitätsprinzip\" versteht man unter anderem auch, dass sich manche Rechtsmaterien nicht streng und detailliert vorherbestimmen lassen, sondern nur durch die Vorgabe von Zielen und strengere verfahrensrechtliche Vorgaben für das Erarbeiten der Rechtsnorm.",
+    "correctAnswer": true,
+    "topic": "Legalitätsprinzip",
+    "source": "Altklausur ÖffR",
+    "points": 1,
+    "explanation": "Das differenzierte Legalitätsprinzip trägt dem Umstand Rechnung, dass in komplexen Materien (z.B. Technikrecht, Planungsrecht) der Gesetzgeber nicht jeden Einzelfall regeln kann. Dort genügt eine Rahmensetzung durch Ziele und Verfahren, während Detailentscheidungen durch Verwaltungsakte getroffen werden."
+  },
+  {
+    "id": "Q58",
+    "statement": "Die Artikel 10 bis 15 B-VG sind Ausprägung des gewaltenteilenden Grundprinzips der österreichischen Bundesverfassung.",
+    "correctAnswer": false,
+    "topic": "Grundprinzipien der Verfassung",
+    "source": "Altklausur ÖffR",
+    "points": 1,
+    "explanation": "Die Artikel 10 bis 15 B-VG enthalten vor allem die Kompetenzverteilung zwischen Bund und Ländern und betreffen damit das bundesstaatliche Grundprinzip. Das gewaltenteilende Grundprinzip schlägt sich insbesondere in der Trennung von Gesetzgebung, Verwaltung und Gerichtsbarkeit nieder."
+  },
+  {
+    "id": "Q59",
+    "statement": "Das Recht auf ein faires Verfahren gemäß Art 6 der EMRK zählt zu den sogenannten sozialen Grundrechten.",
+    "correctAnswer": false,
+    "topic": "Grundrechte – EMRK",
+    "source": "Altklausur Grundrechte",
+    "points": 1,
+    "explanation": "Art. 6 EMRK gewährleistet Verfahrensrechte (z.B. rechtliches Gehör, unabhängiges Gericht) und ist ein Freiheits- bzw. Verfahrensgrundrecht. Soziale Grundrechte betreffen demgegenüber etwa Ansprüche auf soziale Sicherheit oder Bildung."
+  },
+  {
+    "id": "Q60",
+    "statement": "Die Wahl durch das Bundesvolk und die zeitlich begrenzte Amtsdauer des österreichischen Bundespräsidenten ist ein typisches Merkmal der republikanischen Staatsform.",
+    "correctAnswer": true,
+    "topic": "Staatsform – Republik",
+    "source": "Altklausur ÖffR",
+    "points": 1,
+    "explanation": "In einer Republik wird das Staatsoberhaupt nicht auf Lebenszeit, sondern nur auf bestimmte Zeit gewählt oder bestellt. Die direkte Wahl des Bundespräsidenten durch das Volk und seine begrenzte Amtsdauer kennzeichnen Österreich als Republik."
+  },
+  {
+    "id": "Q61",
+    "statement": "Eine Garantie, die ein Produzent für seine Produkte zusagt, hat keinen Einfluss auf das Bestehen von Gewährleistungsansprüchen.",
+    "correctAnswer": true,
+    "topic": "Gewährleistung und Garantie",
+    "source": "Altklausur Zivilrecht",
+    "points": 1,
+    "explanation": "Die gesetzliche Gewährleistung ist unabhängig von einer freiwilligen Garantie des Herstellers. Eine Garantie kann zusätzliche Rechte bieten, die Gewährleistungsansprüche aber weder ausschließen noch einschränken."
+  },
+  {
+    "id": "Q62",
+    "statement": "Lisa bestellt beim Tischler Egon ein Regal für ihr Arbeitszimmer. Das Regal soll am 3. Mai 2025 geliefert werden. Da Egon zu viele Aufträge angenommen hat, schafft er es nicht, das Regal zum vereinbarten Termin zu liefern. Lisa kann mit sofortiger Wirkung vom Vertrag zurücktreten.",
+    "correctAnswer": false,
+    "topic": "Schuldrecht – Lieferverzug und Rücktritt",
+    "source": "Altklausur Zivilrecht",
+    "points": 1,
+    "explanation": "Bei Lieferverzug muss die Gläubigerin in der Regel zunächst eine angemessene Nachfrist zur Leistung setzen. Ein sofortiger Rücktritt ohne Nachfrist ist nur bei echten oder vereinbarten Fixgeschäften oder besonderen Umständen zulässig, die hier nicht vorliegen."
+  },
+  {
+    "id": "Q63",
+    "statement": "Bei einem Kaufvertrag ist der Verkäufer immer nur Schuldner und der Käufer immer nur Gläubiger.",
+    "correctAnswer": false,
+    "topic": "Schuldrecht – Synallagma",
+    "source": "Altklausur Zivilrecht",
+    "points": 1,
+    "explanation": "Im Kaufvertrag sind beide Parteien zugleich Schuldner und Gläubiger: Der Verkäufer schuldet die Übergabe der Sache und ist Gläubiger des Kaufpreises, der Käufer schuldet den Kaufpreis und ist Gläubiger der Lieferung."
+  },
+  {
+    "id": "Q64",
+    "statement": "Der Kunstliebhaber Kurt kauft von der Kunsthändlerin Heidi Leonardo da Vincis 'Die Frau mit dem Hermelin'. Das Bild soll nach Beendigung der Ausstellung am 1. Juli 2025 übergeben werden. Wenn das Bild am 28. Juni 2025 trotz strengster Sicherheitsvorkehrungen gestohlen wird, so muss Kurt den vereinbarten Kaufpreis nicht bezahlen.",
+    "correctAnswer": true,
+    "topic": "Schuldrecht – Unmöglichkeit / Stückschuld",
+    "source": "Altklausur Zivilrecht",
+    "points": 1,
+    "explanation": "Beim Kauf eines individuell bestimmten Kunstwerks handelt es sich um eine Stückschuld. Geht die Sache vor Übergabe zufällig unter und trifft den Verkäufer kein Verschulden, wird die Leistung unmöglich; der Käufer muss den Kaufpreis nicht mehr zahlen."
+  },
+  {
+    "id": "Q65",
+    "statement": "Rosemarie hat bei Rupert 100 Liter naturtrüben Apfelsaft bestellt. Rupert erscheint zum vereinbarten Termin, Rosemarie verweigert aber die Annahme, weil sie sogleich feststellt, dass es nicht naturtrüber, sondern gewöhnlicher Apfelsaft ist. Rosemarie kann sich auf Gewährleistung berufen und auf Austausch bestehen.",
+    "correctAnswer": false,
+    "topic": "Erfüllungsanspruch vs. Gewährleistung",
+    "source": "Altklausur Zivilrecht",
+    "points": 1,
+    "explanation": "Solange noch keine ordnungsgemäße Erfüllung angeboten wurde, steht primär der Erfüllungsanspruch im Vordergrund. Rupert hat noch gar nicht vertragsgemäß geleistet, daher kann Rosemarie die Annahme verweigern und vertragsgemäße Lieferung verlangen; ein Gewährleistungsfall liegt noch nicht vor."
+  },
+  {
+    "id": "Q66",
+    "statement": "Das Mietrechtsgesetz zählt zu den Sonderprivatrechten.",
+    "correctAnswer": false,
+    "topic": "Systematik des Privatrechts",
+    "source": "Altklausur Zivilrecht",
+    "points": 1,
+    "explanation": "Das Mietrechtsgesetz ist Teil des Zivilrechts mit besonderer Regelungsdichte für bestimmte Mietverhältnisse. In der hier verwendeten Systematik wird es aber nicht als eigenes Sonderprivatrecht i.S. eines abgeschlossenen Rechtsgebiets neben dem ABGB qualifiziert, weshalb die Aussage als falsch bewertet wird."
+  },
+  {
+    "id": "Q67",
+    "statement": "Die 13-jährige Mona ist mit hoher Geschwindigkeit mit ihrem Fahrrad unterwegs. Sie übersieht den Fußgänger Philipp, der gerade die Straße auf dem Zebrastreifen überquert, und stößt diesen nieder. Philipp erleidet einen Bruch des Unterarms. Ein Schadenersatz des Philipp gegenüber Mona ist jedenfalls ausgeschlossen.",
+    "correctAnswer": false,
+    "topic": "Deliktsrecht – Minderjährige",
+    "source": "Altklausur Zivilrecht",
+    "points": 1,
+    "explanation": "Minderjährige können deliktsfähig sein, wenn sie die nötige Einsichts- und Urteilsfähigkeit besitzen. Bei einer 13-Jährigen ist das grundsätzlich anzunehmen. Ein Schadenersatzanspruch ist daher keineswegs 'jedenfalls ausgeschlossen', sondern nach den allgemeinen Haftungsregeln zu prüfen."
+  },
+  {
+    "id": "Q68",
+    "statement": "Die 16-jährige Marlene kann einen Lehrlingsvertrag nur mit Zustimmung ihrer Eltern abschließen.",
+    "correctAnswer": true,
+    "topic": "Arbeitsrecht – Lehrlingsvertrag",
+    "source": "Altklausur Zivilrecht",
+    "points": 1,
+    "explanation": "Ein Lehrlingsvertrag begründet ein besonders intensives, langfristiges Arbeitsverhältnis und erfordert nach den einschlägigen Schutzbestimmungen die Zustimmung der gesetzlichen Vertreter, solange die minderjährige Person nicht voll geschäftsfähig ist."
+  },
+  {
+    "id": "Q69",
+    "statement": "Der 6-jährige Max hat von seiner Tante zum Geburtstag 100,-- EURO geschenkt bekommen. Wenn er sich mit diesem Geld beim Elektrohändler die Gesamtausgabe der Harry-Potter-Videos um 80,-- EURO kauft und auch gleich bezahlt, dann ist ein gültiger Kaufvertrag zustande gekommen.",
+    "correctAnswer": false,
+    "topic": "Geschäftsfähigkeit von Kindern",
+    "source": "Altklausur Zivilrecht",
+    "points": 1,
+    "explanation": "Kinder unter 7 Jahren sind geschäftsunfähig. Sie können grundsätzlich keine entgeltlichen Verträge wirksam abschließen; ein solcher Kaufvertrag ist daher ohne Vertretung durch die Eltern nicht gültig, auch wenn eigenes Geld vorhanden ist."
+  },
+  {
+    "id": "Q70",
+    "statement": "Bei Anton wird von einem Sachverständigen eine geminderte Entscheidungsfähigkeit festgestellt. Anton kann keine Vorsorgevollmacht erteilen.",
+    "correctAnswer": true,
+    "topic": "Erwachsenenvertretungsrecht",
+    "source": "Altklausur Zivilrecht",
+    "points": 1,
+    "explanation": "Für die Errichtung einer Vorsorgevollmacht ist volle Einsichts- und Entscheidungsfähigkeit erforderlich, weil eine weitreichende rechtliche Gestaltung der eigenen Angelegenheiten vorgenommen wird. Bei festgestellter geminderter Entscheidungsfähigkeit fehlt diese Voraussetzung."
+  },
+  {
+    "id": "Q71",
+    "statement": "Die teleologische Reduktion kommt zur Anwendung, um Lücken (= planwidrige Unvollständigkeit des Gesetzes) zu schließen.",
+    "correctAnswer": false,
+    "topic": "Methodenlehre – Auslegung",
+    "source": "Altklausur Allgemeiner Teil",
+    "points": 1,
+    "explanation": "Teleologische Reduktion dient dazu, den Anwendungsbereich einer Norm einzuschränken, wenn der Wortlaut zu weit geht und Fälle erfasst, die nach Sinn und Zweck nicht mitgeregelt werden sollen. Lücken werden hingegen typischerweise durch Analogie geschlossen."
+  },
+  {
+    "id": "Q72",
+    "statement": "Man spricht von kumulativer Anwendung, wenn derselbe Sachverhalt den Tatbestand von zwei oder mehr Rechtsnormen erfüllt, aber nur eine dieser Normen anzuwenden ist.",
+    "correctAnswer": false,
+    "topic": "Methodenlehre – Normenkollision",
+    "source": "Altklausur Allgemeiner Teil",
+    "points": 1,
+    "explanation": "Kumulative Anwendung bedeutet, dass mehrere Normen gleichzeitig auf denselben Sachverhalt angewendet werden. Wenn zwar mehrere Normen einschlägig sind, aber nur eine anzuwenden ist, spricht man von alternativer Anwendung oder von Konkurrenzregeln."
+  },
+  {
+    "id": "Q73",
+    "statement": "Wenn man bei der Interpretation eines Gesetzes die Materialien zu Rate zieht wie zum Beispiel die Regierungsvorlage, Ausschussberichte oder Initiativanträge, dann wendet man die Methode der systematischen Interpretation an.",
+    "correctAnswer": false,
+    "topic": "Methodenlehre – Auslegung",
+    "source": "Altklausur Allgemeiner Teil",
+    "points": 1,
+    "explanation": "Die Heranziehung der Materialien (Regierungsvorlage, Ausschussberichte etc.) dient der historischen Interpretation, weil sie die Entstehungsgeschichte und den Willen des Gesetzgebers beleuchtet. Systematische Interpretation stützt sich demgegenüber auf Stellung und Zusammenhang der Norm im Gesamtrecht."
+  },
+  {
+    "id": "Q74",
+    "statement": "Einfache Gesetze haben gegenüber Verordnungen derogatorische Kraft; das heißt, durch eine Entscheidung des Verfassungsgerichtshofs können einfache Gesetze Verordnungen gültig aufheben.",
+    "correctAnswer": true,
+    "topic": "Stufenbau der Rechtsordnung",
+    "source": "Altklausur ÖffR",
+    "points": 1,
+    "explanation": "Im Stufenbau stehen Gesetze über Verordnungen. Verordnungen müssen sich im Rahmen des Gesetzes halten. Stellt der Verfassungsgerichtshof fest, dass eine Verordnung gesetzwidrig ist, hebt er sie auf – die derogatorische Kraft der höherrangigen Norm setzt sich durch."
+  },
+  {
+    "id": "Q75",
+    "statement": "(Einfaches) Bundesverfassungsrecht und Landesverfassungsrecht stehen im Stufenbau der Rechtsordnung auf derselben Stufe.",
+    "correctAnswer": false,
+    "topic": "Stufenbau – Bundes- und Landesverfassungsrecht",
+    "source": "Altklausur ÖffR",
+    "points": 1,
+    "explanation": "Das Bundesverfassungsrecht bildet die verfassungsrechtliche Grundlage, an die sich auch die Landesverfassungen halten müssen. Landesverfassungsrecht darf dem Bundesverfassungsrecht nicht widersprechen, steht also stufenmäßig darunter."
+  },
+  {
+    "id": "Q76",
+    "statement": "Verfassungsrecht muss immer auch ausdrücklich als solches bezeichnet werden.",
+    "correctAnswer": true,
+    "topic": "Verfassungsrecht – formeller Begriff",
+    "source": "Altklausur ÖffR",
+    "points": 1,
+    "explanation": "Für formelles Verfassungsrecht verlangt das B-VG, dass Normen, die im besonderen Verfassungsgebungsverfahren erlassen werden, ausdrücklich als Verfassungsgesetz oder Verfassungsbestimmung bezeichnet werden. Nur dann kommt ihnen formeller Verfassungsrang zu."
+  },
+  {
+    "id": "Q77",
+    "statement": "An der Gesetzgebung der österreichischen Bundesländer wirken auch die Gemeinden mit.",
+    "correctAnswer": false,
+    "topic": "Landesgesetzgebung",
+    "source": "Altklausur ÖffR",
+    "points": 1,
+    "explanation": "Die Landesgesetzgebung wird von den Landtagen ausgeübt. Gemeinden haben kein eigenes Gesetzgebungsorgan auf Landesebene; ihre Mitwirkung beschränkt sich auf Verwaltung und Selbstverwaltung im eigenen und übertragenen Wirkungsbereich."
+  },
+  {
+    "id": "Q78",
+    "statement": "Das Strafrecht zählt zum öffentlichen Recht.",
+    "correctAnswer": true,
+    "topic": "Rechtsgebiete – öffentlich/privat",
+    "source": "Altklausur Strafrecht",
+    "points": 1,
+    "explanation": "Strafrecht regelt die staatliche Reaktion auf normwidriges Verhalten und das Verhältnis zwischen Staat und Bürger im Rahmen des Strafanspruchs. Es gehört daher systematisch zum öffentlichen Recht."
+  },
+  {
+    "id": "Q79",
+    "statement": "Die Arbeiterkammer ist eine sogenannte Personalkörperschaft und zählt zu den juristischen Personen des öffentlichen Rechts.",
+    "correctAnswer": true,
+    "topic": "Körperschaften des öffentlichen Rechts",
+    "source": "Altklausur ÖffR",
+    "points": 1,
+    "explanation": "Die Arbeiterkammern sind Selbstverwaltungskörperschaften, denen bestimmte Personengruppen (Arbeitnehmer:innen) zwangsweise angehören. Sie sind daher Personalkörperschaften und juristische Personen des öffentlichen Rechts."
+  },
+  {
+    "id": "Q80",
+    "statement": "Art 140 Abs 1 erster Satz B-VG lautet: 'Der Verfassungsgerichtshof erkennt über die Verfassungswidrigkeit von einfachen Gesetzen ... .' Es handelt sich dabei um Verfassungsrecht im formellen und materiellen Sinn.",
+    "correctAnswer": true,
+    "topic": "Verfassungsrecht – formell und materiell",
+    "source": "Altklausur ÖffR",
+    "points": 1,
+    "explanation": "Die Bestimmung steht im Bundes-Verfassungsgesetz und ist im besonderen Verfahren als Verfassungsgesetz erlassen worden (formelles Verfassungsrecht). Inhaltlich regelt sie die Zuständigkeit des VfGH zur Kontrolle einfacher Gesetze und betrifft damit zentrale verfassungsrechtliche Fragen (materielles Verfassungsrecht)."
+  },
+  {
+    "id": "Q81",
+    "statement": "Sachenrechte sind sogenannte relative Rechte. Sie können nur gegenüber bestimmten Personen geltend gemacht werden.",
+    "correctAnswer": false,
+    "topic": "Sachenrecht – absolutes Recht",
+    "source": "Altklausur Zivilrecht",
+    "points": 1,
+    "explanation": "Sachenrechte, insbesondere das Eigentumsrecht, wirken grundsätzlich gegenüber jedermann (erga omnes) und zählen zu den absoluten Rechten. Relative Rechte richten sich nur gegen bestimmte Personen, etwa vertragliche Ansprüche."
+  },
+  {
+    "id": "Q82",
+    "statement": "Wenn der (ahnungslose) Taxifahrer Alois den Ludwig zur Bankfiliale fährt und Ludwig dann die Bank ausraubt, so war das Verhalten des Alois für die Tat zwar kausal, er haftet aber nicht für den eingetretenen Schaden, weil das Befördern mit dem Taxi keine adäquate Ursache für einen Banküberfall ist.",
+    "correctAnswer": true,
+    "topic": "Deliktsrecht – Adäquanz",
+    "source": "Altklausur Zivilrecht",
+    "points": 1,
+    "explanation": "Zwar ist die Fahrt zur Bank naturwissenschaftlich eine Ursache, sie ist aber keine adäquate, also typischerweise mit einem Banküberfall verbundene Ursache. Ohne besondere Umstände besteht daher keine deliktische Haftung des ahnungslosen Taxifahrers."
+  },
+  {
+    "id": "Q83",
+    "statement": "Bei der Gefährdungshaftung ist das Verschulden keine Voraussetzung der Haftung. Zurechnungsgrund ist das Verwenden einer gefährlichen Sache zum eigenen Nutzen.",
+    "correctAnswer": true,
+    "topic": "Gefährdungshaftung",
+    "source": "Altklausur Zivilrecht",
+    "points": 1,
+    "explanation": "Gefährdungshaftung knüpft an die besondere Gefährlichkeit bestimmter Tätigkeiten oder Sachen an (z.B. Kfz-Haftung). Es handelt sich um eine verschuldensunabhängige Haftung; Zurechnungsgrund ist die Nutzung der Gefahrenquelle im eigenen Interesse."
+  },
+  {
+    "id": "Q84",
+    "statement": "Elisabeth hat mit dem Elektroinstallateur Johannes die Sanierung ihrer Fußbodenheizung vereinbart. Johannes schickt seinen an sich sehr verlässlichen Lehrling Michael zu Elisabeth. Auf dem Weg zu Elisabeth verursacht Michael einen Unfall, bei dem Karoline verletzt wird. Johannes haftet der Karoline gegenüber für den eingetretenen Schaden.",
+    "correctAnswer": false,
+    "topic": "Vertragliche Haftung und Drittschäden",
+    "source": "Altklausur Zivilrecht",
+    "points": 1,
+    "explanation": "Johannes steht in einem Vertragsverhältnis zu Elisabeth, nicht zu Karoline. Für Schäden an Dritten kann allenfalls eine deliktische Haftung von Michael oder Johannes in Betracht kommen; ein unmittelbarer vertraglicher Schadenersatzanspruch der Karoline gegen Johannes besteht nicht."
+  },
+  {
+    "id": "Q85",
+    "statement": "Wenn Konstantin das Überfahren seines Grundstücks durch Anrainer dulden muss, so wird diese Duldungspflicht bei seinem Grundstück im C-Blatt eingetragen.",
+    "correctAnswer": true,
+    "topic": "Sachenrecht – Dienstbarkeiten",
+    "source": "Altklausur Zivilrecht",
+    "points": 1,
+    "explanation": "Eine dingliche Duldungspflicht, etwa eine Geh- oder Fahrdienstbarkeit, wird als Servitut im Grundbuch eingetragen. Solche Belastungen werden im C-Blatt (Lastenblatt) des jeweiligen Grundstücks vermerkt."
+  },
+  {
+    "id": "Q86",
+    "statement": "Ernst sieht in der Auslage des Herrenmodegeschäfts Hubert einen Anzug der Marke 'BOSS' mit dem Preisschild 800,-- EURO. Er kauft diesen Anzug. Wenn sich im Nachhinein herausstellt, dass der Anzug eine gut gemachte Fälschung und kein BOSS-Anzug ist, so kann Ernst diesen Vertrag wegen eines Geschäftsirrtums anfechten.",
+    "correctAnswer": true,
+    "topic": "Irrtumsrecht – Geschäftsirrtum",
+    "source": "Altklausur Zivilrecht",
+    "points": 1,
+    "explanation": "Die Marke und Echtheit des Anzugs ist eine wesentliche Eigenschaft der Kaufsache. Irrt sich der Käufer darüber, liegt ein Geschäftsirrtum über den Vertragsinhalt vor, der bei entsprechender Kausalität zur Anfechtung des Vertrages berechtigen kann."
+  },
+  {
+    "id": "Q87",
+    "statement": "Ein Schenkungsvertrag ist ein einseitiges Rechtsgeschäft.",
+    "correctAnswer": false,
+    "topic": "Vertragsrecht – Schenkung",
+    "source": "Altklausur Zivilrecht",
+    "points": 1,
+    "explanation": "Auch ein Schenkungsvertrag beruht auf zwei übereinstimmenden Willenserklärungen von Geschenkgeber:in und Geschenknehmer:in. Er ist daher ein zweiseitiges Rechtsgeschäft, auch wenn nur eine Seite wirtschaftlich leistet."
+  },
+  {
+    "id": "Q88",
+    "statement": "Die Studentin Sylvia bietet auf der Internetplattform willhaben.at ihr detailliert beschriebenes gebrauchtes Handy um 350,-- EURO an. Auch mehrere Fotos des Handys sind zu sehen. Wenn Oliver per E-Mail an Sylvia schreibt: 'Ich kaufe', dann ist mit Zugang seines Mails ein gültiger Kaufvertrag zustande gekommen.",
+    "correctAnswer": false,
+    "topic": "Vertragsabschluss im Internet",
+    "source": "Altklausur Zivilrecht",
+    "points": 1,
+    "explanation": "Online-Angebote werden in der Regel als Einladung zur Abgabe eines Angebots (invitatio ad offerendum) verstanden. Olivers E-Mail stellt das Angebot dar; ein Vertrag kommt erst mit der Annahmeerklärung von Sylvia zustande."
+  },
+  {
+    "id": "Q89",
+    "statement": "Christina geht zum Autohändler August und kauft im Namen des Georg einen Gebrauchtwagen um 6.000,-- EURO. Georg hat Christina keine Vollmacht erteilt. Es ist ein Vertrag zwischen Christina und August zustande gekommen.",
+    "correctAnswer": false,
+    "topic": "Stellvertretung ohne Vollmacht",
+    "source": "Altklausur Zivilrecht",
+    "points": 1,
+    "explanation": "Handelt jemand ohne Vollmacht im fremden Namen, liegt Vertretung ohne Vertretungsmacht vor. Der Vertrag mit Georg kommt nur zustande, wenn dieser ihn nachträglich genehmigt. Ein automatischer Vertragsschluss zwischen August und Christina wird durch die bloße Vertretungsbehauptung nicht begründet."
+  },
+  {
+    "id": "Q90",
+    "statement": "Erich verkauft der Lieselotte am 2. Juni 2025 seinen gebrauchten Fiat 500 um 3.500,-- EURO. Das Auto soll am 17. Juli 2025 übergeben werden. Lieselotte ist bereits am 2. Juni 2025 Eigentümerin des Autos geworden.",
+    "correctAnswer": false,
+    "topic": "Sachenrecht – Eigentumserwerb an Fahrnissen",
+    "source": "Altklausur Zivilrecht",
+    "points": 1,
+    "explanation": "Beim Erwerb beweglicher Sachen ist neben dem gültigen Titel (Kaufvertrag) der Modus, also die tatsächliche Übergabe, erforderlich. Lieselotte wird daher erst mit Übergabe des Autos Eigentümerin, nicht schon mit Vertragsschluss."
+  },
+  {
+    "id": "Q91",
+    "statement": "Der Vertrag über die Arbeitsweise der Union (AEUV) zählt zum Sekundärrecht der Union.",
+    "correctAnswer": false,
+    "topic": "EU-Recht – Primär-/Sekundärrecht",
+    "source": "Altklausur EU-Recht",
+    "points": 1,
+    "explanation": "Der AEUV ist – ebenso wie der EUV – ein Gründungsvertrag der Europäischen Union und gehört damit zum Primärrecht. Sekundärrecht sind insbesondere Verordnungen, Richtlinien und Beschlüsse der Organe."
+  },
+  {
+    "id": "Q92",
+    "statement": "Der eines bewaffneten Banküberfalls dringend tatverdächtige Alexander wird von der Polizei auf der Flucht gestellt und an Ort und Stelle festgenommen. Wenn Alexander der Meinung ist, dass die Festnahme zu Unrecht erfolgte, kann er die Festnahme mit Beschwerde beim Landesverwaltungsgericht bekämpfen.",
+    "correctAnswer": true,
+    "topic": "Rechtsschutz – Verwaltungsgerichte",
+    "source": "Altklausur ÖffR",
+    "points": 1,
+    "explanation": "Polizeiliche Befehle und Zwangsgewalt sind Akte unmittelbarer verwaltungsbehördlicher Befehls- und Zwangsgewalt. Rechtsschutz dagegen wird durch Beschwerde an das zuständige Verwaltungsgericht gewährt."
+  },
+  {
+    "id": "Q93",
+    "statement": "In den Angelegenheiten der Staatsbürgerschaft ist der Landeshauptmann gegenüber der Bezirksverwaltungsbehörde weisungsberechtigt.",
+    "correctAnswer": false,
+    "topic": "Verwaltung – mittelbare Bundesverwaltung",
+    "source": "Altklausur ÖffR",
+    "points": 1,
+    "explanation": "Staatsbürgerschaftsangelegenheiten sind Bundesverwaltung in mittelbarer Bundesverwaltung. Die Bezirksverwaltungsbehörden unterstehen dabei den Weisungen der Landesregierung bzw. der zuständigen Bundesministerin, nicht einer eigenständigen Weisungsbefugnis des Landeshauptmanns."
+  },
+  {
+    "id": "Q94",
+    "statement": "Im Bereich der Hoheitsverwaltung sind für den Rechtsschutz die ordentlichen Gerichte zuständig.",
+    "correctAnswer": false,
+    "topic": "Gerichtsbarkeiten",
+    "source": "Altklausur ÖffR",
+    "points": 1,
+    "explanation": "Für hoheitliches Verwaltungshandeln ist primär die Verwaltungsgerichtsbarkeit zuständig (Verwaltungsgerichte, VfGH). Die ordentlichen Gerichte sind für Zivil- und Strafsachen zuständig, nicht für den typischen Rechtsschutz gegen Verwaltungsakte."
+  },
+  {
+    "id": "Q95",
+    "statement": "Ausnahmsweise wird EU-Recht auch von Organen der EU selbst vollzogen. Ein Beispiel dafür ist das Wettbewerbsrecht.",
+    "correctAnswer": true,
+    "topic": "EU-Recht – direkter Vollzug",
+    "source": "Altklausur EU-Recht",
+    "points": 1,
+    "explanation": "Grundsätzlich wird Unionsrecht von den Mitgliedstaaten vollzogen. In bestimmten Bereichen, etwa im europäischen Wettbewerbsrecht, übt jedoch insbesondere die Europäische Kommission selbst Vollzugsbefugnisse aus (z.B. Kartellverfahren, Fusionskontrolle)."
+  },
+  {
+    "id": "Q96",
+    "statement": "Unter Legisvakanz versteht man den Zeitraum zwischen der Beschlussfassung eines Gesetzes im Nationalrat und der Kundmachung im Bundesgesetzblatt.",
+    "correctAnswer": false,
+    "topic": "Gesetzgebung – Inkrafttreten",
+    "source": "Altklausur Allgemeiner Teil",
+    "points": 1,
+    "explanation": "Legisvakanz bezeichnet den Zeitraum zwischen Kundmachung eines Gesetzes und seinem Inkrafttreten. Der Zeitraum zwischen Beschlussfassung im Parlament und Kundmachung zählt noch nicht zur Legisvakanz."
+  },
+  {
+    "id": "Q97",
+    "statement": "Unter Subsumtion versteht man den gedanklichen Vorgang, bei dem ein Sachverhalt dem Tatbestand einer Rechtsnorm unterstellt wird, um dann daraus konkrete Rechtsfolgen abzuleiten.",
+    "correctAnswer": true,
+    "topic": "Rechtsanwendung – Subsumtion",
+    "source": "Altklausur Allgemeiner Teil",
+    "points": 1,
+    "explanation": "Subsumtion ist der Kernakt der Rechtsanwendung: Der konkrete Sachverhalt wird unter die abstrakte Tatbestandsbeschreibung einer Norm 'untergeordnet', um anschließend die Rechtsfolge dieser Norm anzuwenden."
+  },
+  {
+    "id": "Q98",
+    "statement": "§ 41 Abs 1 AVG (= Allgemeines Verwaltungsverfahrensgesetz) bestimmt: 'Die Anberaumung einer mündlichen Verhandlung hat durch persönliche Verständigung der bekannten Beteiligten zu erfolgen.' Es handelt sich dabei um Recht im materiellen Sinn.",
+    "correctAnswer": false,
+    "topic": "Formelles und materielles Recht",
+    "source": "Altklausur Verwaltungsrecht",
+    "points": 1,
+    "explanation": "Das AVG regelt das Verfahren vor Verwaltungsbehörden und gehört zum formellen Verwaltungsrecht. Materielles Recht legt demgegenüber die inhaltlichen Rechte und Pflichten fest; eine Verfahrensvorschrift wie § 41 AVG ist daher kein materielles, sondern formelles Recht."
+  },
+  {
+    "id": "Q99",
+    "statement": "Eine Bestimmung des Mietrechtsgesetzes sieht vor, dass im Fall der Kündigung durch den Mieter eine Frist von drei Monaten einzuhalten ist. Es ist zulässig, im Vertrag zwischen Vermieter und Mieter eine Frist von zwei Monaten für den Fall der Kündigung durch den Mieter festzulegen.",
+    "correctAnswer": true,
+    "topic": "Mietrecht – zwingendes und dispositives Recht",
+    "source": "Altklausur Zivilrecht",
+    "points": 1,
+    "explanation": "Zwingende Kündigungsfristen im Mietrecht dienen regelmäßig dem Schutz des Mieters. Eine vertragliche Abweichung zugunsten des Mieters – hier eine kürzere Kündigungsfrist – ist daher zulässig, weil sie den gesetzlich Geschützten besser stellt."
+  },
+  {
+    "id": "Q100",
+    "statement": "Gesetze, Verordnungen und Urteile sind generelle Rechtsnormen.",
+    "correctAnswer": false,
+    "topic": "Rechtsquellen – generelle/individuelle Akte",
+    "source": "Altklausur Allgemeiner Teil",
+    "points": 1,
+    "explanation": "Gesetze und Verordnungen enthalten generelle Normen, die für eine Vielzahl von Fällen gelten. Urteile hingegen sind individuell-konkrete Entscheidungen, die nur die am Verfahren beteiligten Parteien in einem bestimmten Fall betreffen; sie sind keine generellen Rechtsnormen."
+  },
+  {
+    "id": "Q101",
+    "statement": "Gegen einen Akt unmittelbarer verwaltungsbehördlicher Befehls- und Zwangsgewalt (zB Abnahme des Autoschlüssels wegen Alkoholisierung) kann Beschwerde beim Landesverwaltungsgericht erhoben werden.",
+    "correctAnswer": true,
+    "topic": "Verwaltungsrecht, EU-Recht",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Unmittelbare verwaltungsbehördliche Befehls- und Zwangsgewalt ist hoheitliches Handeln ohne Bescheid. Dagegen steht die Maßnahmenbeschwerde an das zuständige Landesverwaltungsgericht offen."
+  },
+  {
+    "id": "Q102",
+    "statement": "Ein Bescheid, mit dem die Zahlung einer Geldstrafe angeordnet wird, ist ein sogenannter Leistungsbescheid.",
+    "correctAnswer": true,
+    "topic": "Verwaltungsrecht, EU-Recht",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Leistungsbescheide verpflichten zur Vornahme oder Unterlassung einer Leistung, etwa zur Zahlung einer Geldsumme. Eine Geldstrafe, die per Bescheid vorgeschrieben wird, ist daher ein Leistungsbescheid."
+  },
+  {
+    "id": "Q103",
+    "statement": "Dem Europäischen Rat kommen keine Rechtsetzungsbefugnisse zu.",
+    "correctAnswer": true,
+    "topic": "Verwaltungsrecht, EU-Recht",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Der Europäische Rat (Staats- und Regierungschefs) legt politische Leitlinien fest, erlässt aber keine Rechtsakte mit Gesetzescharakter. Gesetzgebungsakte werden insbesondere vom Rat der EU und vom Europäischen Parlament erlassen."
+  },
+  {
+    "id": "Q104",
+    "statement": "Wird eine Richtlinie durch einen Mitgliedstaat nicht rechtzeitig in innerstaatliches Recht umgesetzt, so verhindert das ihr Wirksamwerden auch in allen anderen Mitgliedstaaten.",
+    "correctAnswer": false,
+    "topic": "Verwaltungsrecht, EU-Recht",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Die Versäumnisse eines Mitgliedstaates wirken nur in dessen eigener Rechtsordnung. Die Wirksamkeit und Umsetzung der Richtlinie in anderen Mitgliedstaaten bleibt davon unberührt."
+  },
+  {
+    "id": "Q105",
+    "statement": "Die Kompetenzverteilung (Art 10–15 B-VG) gilt nicht für die Privatwirtschaftsverwaltung.",
+    "correctAnswer": true,
+    "topic": "Verwaltungsrecht, EU-Recht",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Die Kompetenzverteilung regelt primär die hoheitliche Gesetzgebung und Vollziehung. In der Privatwirtschaftsverwaltung handelt der Staat wie ein Privater; die Kompetenzregelungen der Art 10–15 B-VG greifen dort nicht in gleicher Weise."
+  },
+  {
+    "id": "Q106",
+    "statement": "Wenn der schwer demenzkranke 75-jährige Oskar im Supermarkt eine Flasche Bier kauft, so kommt der Vertrag gültig zustande.",
+    "correctAnswer": true,
+    "topic": "Privatrecht, Entscheidungs- und Geschäftsfähigkeit",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Auch bei einer diagnostizierten Demenz ist eine Person nicht automatisch geschäftsunfähig. Geschäftsfähigkeit bzw. Entscheidungsfähigkeit ist im Einzelfall zu prüfen und besteht, solange kein entsprechender gerichtlicher Eingriff (zB Sachwalterschaft) vorliegt und die Person die Bedeutung des konkreten Geschäfts versteht. Beim geschilderten Alltagskauf wird daher von einem wirksamen Vertrag ausgegangen."
+  },
+  {
+    "id": "Q107",
+    "statement": "Wenn die sechsjährige Silvia beim Bäcker einen Krapfen um 2,00 EURO kauft und sofort bezahlt, so ist dieses Rechtsgeschäft absolut nichtig, weil Kinder unter sieben Jahren geschäftsunfähig sind.",
+    "correctAnswer": false,
+    "topic": "Privatrecht, Entscheidungs- und Geschäftsfähigkeit",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Kinder unter sieben Jahren sind zwar geschäftsunfähig, im Rahmen des täglichen Lebens werden geringfügige Geschäfte aber typischerweise von den Obsorgeberechtigten geduldet oder genehmigt. Die pauschale Aussage einer \"absoluten Nichtigkeit\" ohne jede Korrektur ist zu weitgehend."
+  },
+  {
+    "id": "Q108",
+    "statement": "Der 13-jährige Michael hat 500,-- EURO gespart. Wenn er sich davon eine Playstation im Onlinehandel bestellt, so kommt dieses Rechtsgeschäft nur dann gültig zustande, wenn es seine Eltern nachträglich genehmigen.",
+    "correctAnswer": true,
+    "topic": "Privatrecht, Entscheidungs- und Geschäftsfähigkeit",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Ein 13-Jähriger ist unmündiger Minderjähriger und daher nur beschränkt geschäftsfähig. Ein hochpreisiger Kauf überschreitet den Rahmen bloßer Taschengeldgeschäfte und benötigt die Zustimmung der gesetzlichen Vertreter."
+  },
+  {
+    "id": "Q109",
+    "statement": "Das Unternehmensrecht (UGB) zählt zu den Sonderprivatrechten.",
+    "correctAnswer": true,
+    "topic": "Privatrecht, Entscheidungs- und Geschäftsfähigkeit",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Das Unternehmensrecht ist ein besonderes Rechtsgebiet innerhalb des Privatrechts mit spezifischen Regeln für Unternehmer:innen und zählt daher systematisch zu den Sonderprivatrechten neben dem allgemeinen Zivilrecht des ABGB."
+  },
+  {
+    "id": "Q110",
+    "statement": "Ein Gesetz bestimmt: \"Die gesetzliche Normalarbeitszeit beträgt 40 Stunden pro Woche.\" Es ist zulässig, im Arbeitsvertrag eine Wochenarbeitszeit von 38 Stunden festzulegen.",
+    "correctAnswer": true,
+    "topic": "Privatrecht, Entscheidungs- und Geschäftsfähigkeit",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Arbeitsrechtliche Schutzvorschriften können zugunsten der Arbeitnehmer:innen unterschritten werden. Eine kürzere Wochenarbeitszeit ist für den Arbeitnehmer günstiger und daher zulässig."
+  },
+  {
+    "id": "Q111",
+    "statement": "Die Mitglieder des Bundesrates werden direkt vom Volk gewählt.",
+    "correctAnswer": false,
+    "topic": "Verfassungsrecht",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Die Mitglieder des Bundesrates werden von den Landtagen nach dem Stärkeverhältnis der Parteien entsendet. Eine direkte Wahl durch das Bundesvolk findet nicht statt."
+  },
+  {
+    "id": "Q112",
+    "statement": "Die Bundesversammlung ist zuständig, die staatsrechtliche Verantwortung des Bundespräsidenten geltend zu machen.",
+    "correctAnswer": true,
+    "topic": "Verfassungsrecht",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Die Bundesversammlung kann etwa die Anklage des Bundespräsidenten vor dem Verfassungsgerichtshof beschließen oder eine Volksabstimmung über dessen Absetzung einleiten. Damit macht sie seine staatsrechtliche Verantwortung geltend."
+  },
+  {
+    "id": "Q113",
+    "statement": "Rechtsnormen, die das Verfahren der Gesetzgebung regeln, zählen zum Verfassungsrecht im materiellen Sinn.",
+    "correctAnswer": true,
+    "topic": "Verfassungsrecht",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Materielles Verfassungsrecht umfasst alle Regeln, die die Organisation des Staates, das Verhältnis der Staatsorgane und das Gesetzgebungsverfahren festlegen. Verfahrensnormen der Gesetzgebung gehören daher inhaltlich zum Verfassungsrecht."
+  },
+  {
+    "id": "Q114",
+    "statement": "Damit ein Gesetz gültig zustande kommt, bedarf es nach der Beschlussfassung im Nationalrat immer auch der Zustimmung durch den Bundesrat.",
+    "correctAnswer": false,
+    "topic": "Verfassungsrecht",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Der Bundesrat hat in vielen Fällen nur ein suspensives Vetorecht, das durch einen Beharrungsbeschluss des Nationalrats übergangen werden kann. Nur in besonders genannten Fällen ist seine Zustimmung zwingend."
+  },
+  {
+    "id": "Q115",
+    "statement": "Verfassungsgesetze können nur dann beschlossen werden, wenn mindestens zwei Drittel der Mitglieder des Nationalrats anwesend sind.",
+    "correctAnswer": false,
+    "topic": "Verfassungsrecht",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Für Verfassungsgesetze ist eine Zweidrittelmehrheit der abgegebenen Stimmen bei Anwesenheit von mindestens der Hälfte der Mitglieder erforderlich. Eine Anwesenheit von zwei Dritteln der Mitglieder wird vom B-VG nicht verlangt."
+  },
+  {
+    "id": "Q116",
+    "statement": "Angelegenheiten des Gewerbes und der Industrie werden in mittelbarer Bundesverwaltung vollzogen.",
+    "correctAnswer": true,
+    "topic": "Verfassungsrecht",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Im Bereich des Gewerbes erlässt der Bund die Gesetze, die Vollziehung erfolgt typischerweise durch Landesbehörden als Organe des Bundes, also in mittelbarer Bundesverwaltung."
+  },
+  {
+    "id": "Q117",
+    "statement": "Die Umweltverträglichkeitsprüfung fällt in die Gesetzgebungskompetenz des Bundes.",
+    "correctAnswer": true,
+    "topic": "Verfassungsrecht",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Die Umweltverträglichkeitsprüfung ist im UVP-G 2000 geregelt, einem Bundesgesetz. Damit liegt die Gesetzgebungskompetenz für diese Materie beim Bund."
+  },
+  {
+    "id": "Q118",
+    "statement": "Das Recht, ein Bundesgesetz beim Verfassungsgerichtshof wegen Verfassungswidrigkeit anzufechten, kommt auch einer Landesregierung zu.",
+    "correctAnswer": true,
+    "topic": "Verfassungsrecht",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Im abstrakten Normenkontrollverfahren sind unter anderem Landesregierungen antragslegitimiert und können die Aufhebung von Bundesgesetzen wegen Verfassungswidrigkeit beantragen."
+  },
+  {
+    "id": "Q119",
+    "statement": "Vergibt der Bund Förderungen auf privatrechtlicher Basis (= Privatwirtschaftsverwaltung), dann ist er nicht an die Grundrechte gebunden.",
+    "correctAnswer": false,
+    "topic": "Verfassungsrecht",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Die Grundrechtsbindung trifft den Staat unabhängig davon, ob er hoheitlich oder in der Privatwirtschaftsverwaltung handelt. Auch bei privatrechtlichen Förderverträgen müssen insbesondere Gleichheits- und Diskriminierungsverbote beachtet werden."
+  },
+  {
+    "id": "Q120",
+    "statement": "Das Recht auf Achtung des Privat- und Familienlebens zählt zu den sogenannten politischen Grundrechten.",
+    "correctAnswer": false,
+    "topic": "Verfassungsrecht",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Das Recht auf Achtung des Privat- und Familienlebens (Art. 8 EMRK) ist ein Freiheits- bzw. Abwehrrecht. Politische Grundrechte betreffen insbesondere politische Mitwirkungsrechte wie Wahlrecht oder Versammlungsfreiheit."
+  },
+  {
+    "id": "Q121",
+    "statement": "Die Schlussbestimmung eines Gesetzes lautet: \"Dieses Gesetz tritt mit 31.4.2025 außer Kraft\". Es handelt sich dabei um einen Fall einer formellen Derogation.",
+    "correctAnswer": true,
+    "topic": "Rechtsbegriff",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Wird das Außerkrafttreten einer Norm ausdrücklich angeordnet, liegt formelle Derogation vor. Die Schlussbestimmung hebt das Gesetz zu einem bestimmten Zeitpunkt ausdrücklich auf."
+  },
+  {
+    "id": "Q122",
+    "statement": "Entscheidungen der Gerichte entfalten keine rechtsverbindliche Wirkung für gleichgelagerte Fälle in der Zukunft.",
+    "correctAnswer": true,
+    "topic": "Rechtsbegriff",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Gerichtsentscheidungen sind im österreichischen Recht grundsätzlich keine generellen Rechtsquellen. Sie binden nur die Parteien des konkreten Verfahrens, auch wenn sie faktisch als Präjudizien berücksichtigt werden."
+  },
+  {
+    "id": "Q123",
+    "statement": "Das Bundesverfassungsrecht hat gegenüber dem Landesverfassungsrecht derogatorische Kraft.",
+    "correctAnswer": true,
+    "topic": "Rechtsbegriff",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Landesverfassungsrecht darf dem Bundesverfassungsrecht nicht widersprechen. Im Konfliktfall setzt sich daher das Bundesverfassungsrecht durch und verdrängt widersprechende landesverfassungsrechtliche Regelungen."
+  },
+  {
+    "id": "Q124",
+    "statement": "§ 904 Abs. 1 ABGB lautet (sinngemäß): Haben die Vertragsparteien den Erfüllungszeitpunkt nicht vereinbart, so kann die Leistung sofort gefordert werden. Es handelt sich um einseitig zwingendes Recht.",
+    "correctAnswer": false,
+    "topic": "Rechtsbegriff",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "§ 904 ABGB ist dispositives Recht und gilt nur, soweit die Parteien nichts anderes vereinbart haben. Von einer einseitig zwingenden Norm kann nicht gesprochen werden."
+  },
+  {
+    "id": "Q125",
+  "statement": "§ 1295 ABGB bestimmt: \"Jedermann ist berechtigt, von dem Beschädiger den Ersatz des Schadens, welchen dieser ihm aus Verschulden zugefügt hat, zu fordern.\" Es handelt sich dabei um Recht im subjektiven Sinn.",
+  "correctAnswer": true,
+  "topic": "Rechtsbegriff",
+  "source": "Altklausur",
+  "points": 1,
+  "explanation": "§ 1295 ABGB begründet einen individuellen Anspruch des Geschädigten gegenüber dem Schädiger. Solche Ansprüche nennt man subjektive Rechte. Die Formulierung \"Jedermann ist berechtigt\" ist ein klassischer Hinweis darauf, dass der Normadressat ein subjektives Recht erhält."
+},
+  {
+    "id": "Q126",
+    "statement": "Allgemeine Geschäftsbedingungen werden nur dann Vertragsinhalt, wenn sie vom Vertragspartner unterschrieben werden.",
+    "correctAnswer": false,
+    "topic": "Vertragsabschluss",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "AGB müssen wirksam in den Vertrag einbezogen werden, etwa durch Hinweis und Möglichkeit der Kenntnisnahme. Eine Unterschrift ist nicht zwingend Voraussetzung ihrer Geltung."
+  },
+  {
+    "id": "Q127",
+  "statement": "Robert gibt sich als Vertreter des Gustav aus, ohne von diesem je bevollmächtigt worden zu sein. Kauft er nun bei Oliver einen Laptop im Namen des Gustav und Gustav genehmigt den Vertrag nicht, so ist kein Vertrag zustande gekommen. Robert haftet Oliver gegenüber für den entstandenen Vertrauensschaden.",
+  "correctAnswer": false,
+  "topic": "Vertragsabschluss",
+  "source": "Altklausur",
+  "points": 1,
+  "explanation": "Tritt jemand ohne Vertretungsmacht im fremden Namen auf und wird der Vertrag vom vermeintlich Vertretenen nicht genehmigt, kommt tatsächlich kein Vertrag mit dem Vertretenen zustande. Eine automatische, gesetzlich typisierte Haftung des Vertreters ohne Vertretungsmacht auf Vertrauensschaden ist jedoch in dieser Allgemeinheit nicht vorgesehen. Ob Robert haftet, hängt von zusätzlichen Voraussetzungen (insbesondere einem eigenen schuldhaften Verhalten) ab. Die pauschale Aussage, er hafte jedenfalls auf Vertrauensschaden, ist daher falsch."
+},
+  {
+    "id": "Q128",
+    "statement": "Ein Inserat auf willhaben.at lautet: \"Verkaufe Samsung Galaxy 8, schwarz, neuwertig um 600,- EURO.\" Es handelt sich um ein Angebot im rechtlichen Sinn.",
+    "correctAnswer": false,
+    "topic": "Vertragsabschluss",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Solche Inserate gelten im Regelfall als Einladung zur Angebotslegung (invitatio ad offerendum). Das rechtlich verbindliche Angebot gibt erst der Interessent mit seiner Bestellung ab."
+  },
+  {
+    "id": "Q129",
+    "statement": "Wenn Roswitha bei Luise eine Handtasche mit der Aufschrift \"Prada\" bestellt und davon ausgeht, dass es sich um ein Original handelt, es sich aber später herausstellt, dass es sich um eine gut gelungene Kopie handelt, unterliegt sie einem Erklärungsirrtum.",
+    "correctAnswer": false,
+    "topic": "Vertragsabschluss",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Roswitha irrt über eine wesentliche Eigenschaft der Sache (Original vs. Fälschung). Das ist ein Geschäftsirrtum, nicht ein Erklärungsirrtum, der sich auf den Inhalt der eigenen Erklärung (z.B. Zahl, Person, Objekt) bezieht."
+  },
+  {
+    "id": "Q130",
+    "statement": "Ein Schenkungsvertrag ist ein zweiseitiges Rechtsgeschäft und ein einseitig verpflichtendes Rechtsgeschäft.",
+    "correctAnswer": true,
+    "topic": "Vertragsabschluss",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Für den Schenkungsvertrag sind zwei übereinstimmende Willenserklärungen erforderlich (zweiseitiges Rechtsgeschäft). Verpflichtet wird wirtschaftlich aber nur der Geschenkgeber, daher ist er ein einseitig verpflichtender Vertrag."
+  },
+  {
+    "id": "Q131",
+    "statement": "Wenn aus der Norm \"Baden verboten!\" abgeleitet wird, dass auch das Autowaschen verboten ist, dann zieht man einen sogenannten Größenschluss.",
+    "correctAnswer": true,
+    "topic": "Rechtsbegriff, Interpretation",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Ein Größenschluss (a maiore ad minus) leitet aus einem Verbot des schwereren Eingriffs das Verbot eines geringeren Eingriffs ab. Wer Baden verbietet, will typischerweise auch vergleichbar wasserbelastende Tätigkeiten wie das Autowaschen verhindern."
+  },
+  {
+    "id": "Q132",
+  "statement": "Im Stufenbau der Rechtsordnung sind einfache Bundesgesetze den einfachen Landesgesetzen übergeordnet.",
+  "correctAnswer": false,
+  "topic": "Rechtsbegriff, Interpretation",
+  "source": "Altklausur",
+  "points": 1,
+  "explanation": "Im Stufenbau der Rechtsordnung stehen einfache Bundesgesetze und einfache Landesgesetze auf derselben Rangstufe des einfachen Gesetzesrechts. Der Vorrang des Bundesrechts vor Landesrecht („Bundesrecht bricht Landesrecht“) folgt aus der Kompetenzordnung in der Verfassung, nicht aus einer höheren Stufe der einfachen Bundesgesetze."
+},
+  {
+    "id": "Q133",
+    "statement": "Die Anwendung der Methode der teleologischen Interpretation kommt immer erst dann in Betracht, wenn die historische Interpretation zu keinem Ergebnis geführt hat.",
+    "correctAnswer": false,
+    "topic": "Rechtsbegriff, Interpretation",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Die klassischen Auslegungsmethoden (Wortlaut, systematische, historische und teleologische Interpretation) stehen gleichrangig nebeneinander. Sie werden regelmäßig kombiniert und nicht in einer starren Reihenfolge angewendet."
+  },
+  {
+    "id": "Q134",
+  "statement": "Die verfassungskonforme Interpretation ist ein Unterfall der systematischen Interpretation.",
+  "correctAnswer": true,
+  "topic": "Rechtsbegriff, Interpretation",
+  "source": "Altklausur",
+  "points": 1,
+  "explanation": "Bei der verfassungskonformen Interpretation wird eine einfachgesetzliche Norm so ausgelegt, dass sie im Rahmen der Verfassung bleibt. Man orientiert sich dabei am Gesamtzusammenhang der Rechtsordnung und insbesondere an der Systematik des Verfassungsrechts. Sie kann daher als spezieller Fall der systematischen Interpretation verstanden werden."
+},
+  {
+    "id": "Q135",
+    "statement": "Die Methode der Versteinerungstheorie besagt, dass bei der Interpretation der Kompetenzbegriffe jene Bedeutung maßgebend ist, die diesen Begriffen im Zeitpunkt ihres Inkrafttretens zukommen ist.",
+    "correctAnswer": true,
+    "topic": "Rechtsbegriff, Interpretation",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Die Versteinerungstheorie geht davon aus, dass Kompetenzbegriffe im B-VG mit der Bedeutung \"versteinert\" sind, die sie zur Zeit des Inkrafttretens des Verfassungstextes hatten. Spätere Bedeutungsverschiebungen in der Fachgesetzgebung ändern die Kompetenzverteilung nicht."
+  },
+  {
+    "id": "Q136",
+    "statement": "Julia kauft von Jan dessen gebrauchten VW Golf. Vereinbart wird, dass Julia das Auto am 4.11. abholen wird. Am 4.11. erscheint Julia nicht. Am 6.11. weht ein orkanartiger Sturm, ein umfallender Baum beschädigt das Auto irreparabel. Julia muss Jan den Kaufpreis für das Auto bezahlen.",
+    "correctAnswer": true,
+    "topic": "Leistungsstörungen",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Julia befindet sich im Annahmeverzug. Geht die Sache nach Eintritt des Gläubigerverzugs zufällig unter, trägt grundsätzlich der Gläubiger die Preisgefahr und schuldet weiterhin den Kaufpreis."
+  },
+  {
+    "id": "Q137",
+  "statement": "Lieselotte hat vom Autohändler Hubert einen Neuwagen gekauft. Drei Wochen nach der Übergabe bemerkt sie, dass die Ganganzeige nicht ordnungsgemäß funktioniert. Hubert weist jegliche Gewährleistungsansprüche von sich. Lieselotte kann Wandlung oder Preisminderung verlangen.",
+  "correctAnswer": true,
+  "topic": "Leistungsstörungen",
+  "source": "Altklausur",
+  "points": 1,
+  "explanation": "Die nicht ordnungsgemäß funktionierende Ganganzeige ist ein Sachmangel. Hubert lehnt Gewährleistung kategorisch ab und verweigert damit faktisch die Verbesserung. Bei ernstlicher und endgültiger Verweigerung der Verbesserung kann die Käuferin unmittelbar auf sekundäre Gewährleistungsbehelfe (Preisminderung oder – bei nicht bloß geringfügigem Mangel – Wandlung) übergehen. Daher ist die Aussage richtig."
+},
+  {
+    "id": "Q138",
+    "statement": "Wenn Susanne dem Horst ein Motorrad verkauft, das ihr gar nicht gehört, dann handelt es sich um einen Fall von anfänglicher Unmöglichkeit. Der Vertrag ist absolut nichtig.",
+    "correctAnswer": false,
+    "topic": "Leistungsstörungen",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Der Verkauf einer fremden Sache ist grundsätzlich möglich; die Verkäuferin übernimmt dann das Beschaffungsrisiko. Es liegt keine Unmöglichkeit im rechtlichen Sinn vor, der Vertrag ist daher nicht schon wegen anfänglicher Unmöglichkeit nichtig."
+  },
+  {
+    "id": "Q139",
+    "statement": "Tischlermeister Toni bestellt bei der Sägewerk GmbH G 100 Festmeter geschnittenes Fichtenholz für seinen Tischlereibetrieb. Die GmbH liefert das Holz und es wird ohne weitere Überprüfung in der Lagerhalle des Toni gelagert. Vier Monate später bemerkt Toni, dass das Holz vom Borkenkäfer befallen und für ihn unbrauchbar ist. Toni hat gegenüber G Anspruch auf Austausch des schadhaften Holzes.",
+    "correctAnswer": false,
+    "topic": "Leistungsstörungen",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Im Unternehmens-zu-Unternehmens-Geschäft besteht eine Untersuchungs- und Rügeobliegenheit. Werden Mängel nicht innerhalb angemessener Frist gerügt, verliert der Käufer regelmäßig seine Gewährleistungsrechte."
+  },
+  {
+    "id": "Q140",
+    "statement": "Max hat Marlene sein gebrauchtes Fahrrad verkauft. Sie soll es am 1. Februar abholen und gleichzeitig bezahlen. Am 1. Februar erscheint Marlene nicht. Sie befindet sich im Schuldner- und Gläubigerverzug.",
+    "correctAnswer": true,
+    "topic": "Leistungsstörungen",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Marlene ist Schuldnerin der Kaufpreiszahlung und Gläubigerin der Übergabe. Sie zahlt nicht und nimmt die Leistung nicht an, daher liegt sowohl Zahlungsverzug als auch Annahmeverzug vor."
+  },
+  {
+    "id": "Q141",
+    "statement": "Wer mit seinem PKW durch ein Versagen der Bremsen einen Unfall verursacht, haftet auch dann für den Schaden, wenn ihn kein Verschulden trifft.",
+    "correctAnswer": true,
+    "topic": "Schadenersatzrecht, Sachenrecht",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Für Kraftfahrzeuge gilt das EKHG als Gefährdungshaftung. Der Halter haftet grundsätzlich auch ohne Verschulden für Schäden aus dem Betrieb des Fahrzeugs, sofern keine Entlastungsgründe wie höhere Gewalt vorliegen."
+  },
+  {
+    "id": "Q142",
+    "statement": "Ingo, der ein Installateurunternehmen betreibt, schickt seinen Lehrling Ludwig zu Dagmar, um die Abflussrohre zu reinigen. Wenn Ludwig durch unachtsames Hantieren mit dem Hammer die Badewanne von Dagmar beschädigt, kann dann Dagmar Schadenersatz von Ludwig verlangen, von Ingo aber nur, wenn sie nachweisen kann, dass Ludwig gefährlich oder untüchtig war.",
+    "correctAnswer": false,
+    "topic": "Schadenersatzrecht, Sachenrecht",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Ludwig ist Erfüllungsgehilfe des Ingo. Der Unternehmer haftet für seinen Erfüllungsgehilfen wie für eigenes Verschulden; es kommt nicht darauf an, ob er den Gehilfen sorgfältig ausgewählt hat oder ob dieser untüchtig ist."
+  },
+  {
+    "id": "Q143",
+    "statement": "A parkt sein Auto in der Kurzparkzone, vergisst aber, einen Parkschein auszufüllen. Wenn nun B beim Einparken das Auto des A beschädigt, dann haftet auch A wegen Mitverschuldens anteilig für den eingetretenen Schaden.",
+    "correctAnswer": false,
+    "topic": "Schadenersatzrecht, Sachenrecht",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Mitverschulden setzt einen ursächlichen und zurechenbaren Beitrag des Geschädigten zum Schaden voraus. Das bloße Falschparken hat mit der Kollision nichts zu tun und begründet daher kein Mitverschulden am Unfallschaden."
+  },
+  {
+    "id": "Q144",
+    "statement": "Die Pflicht, das Überfahren des Grundstücks durch Anrainer zu dulden, wird im C-Blatt der belasteten Liegenschaft eingetragen.",
+    "correctAnswer": true,
+    "topic": "Schadenersatzrecht, Sachenrecht",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Eine dingliche Duldungspflicht, etwa eine Fahrdienstbarkeit zugunsten eines Nachbarn, ist eine Belastung des Grundstücks und wird als Servitut im C-Blatt des Grundbuchs eingetragen."
+  },
+  {
+    "id": "Q145",
+    "statement": "Beim Kaufvertrag geht das Eigentum vom Verkäufer auf den Käufer über, sobald ein gültiger Kaufvertrag zustande gekommen ist.",
+    "correctAnswer": false,
+    "topic": "Schadenersatzrecht, Sachenrecht",
+    "source": "Altklausur",
+    "points": 1,
+    "explanation": "Der Kaufvertrag ist nur der Titel für den Eigentumserwerb. Der Eigentumsübergang setzt zusätzlich den Modus voraus, also die Übergabe bei beweglichen Sachen bzw. die Einverleibung im Grundbuch bei Liegenschaften."
+  },
+    {
+      "id": "Q146",
+      "statement": "Der Unterschied zwischen Missbrauch der Vertretungsmacht und Scheinvertretung besteht darin, dass beim Missbrauch der Vertretungsmacht überhaupt keine Vollmacht eingeräumt wurde, während bei der Scheinvertretung lediglich im Innenverhältnis gegen eine bestehende Vollmacht verstoßen wird.",
+      "correctAnswer": false,
+      "topic": "Irrtum, Stellvertretung, Schuldverhältnis, Leistungsstörungen",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Beim Missbrauch der Vertretungsmacht besteht nach außen eine wirksame Vollmacht, gegen interne Weisungen wird aber verstoßen; bei Scheinvertretung fehlt jede wirksame Vertretungsmacht."
+    },
+    {
+      "id": "Q147",
+      "statement": "Liefert der Schuldner bei einem Fixgeschäft die Ware nicht zum vereinbarten Zeitpunkt, so zerfällt der Vertrag, ohne dass es einer Rücktrittserklärung bedarf.",
+      "correctAnswer": true,
+      "topic": "Irrtum, Stellvertretung, Schuldverhältnis, Leistungsstörungen",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Bei echten Fixgeschäften ist die rechtzeitige Leistung wesentlich, der Vertrag fällt bei Verspätung automatisch weg."
+    },
+    {
+      "id": "Q148",
+      "statement": "Christian sagt seinem Mitarbeiter Veit, er solle in Christians Namen bei Gregor einen Laptop um maximal 1500€ kaufen. Kauft Veit bei Gregor im Namen des Christian einen MPR3-Player um 250€, kommt ohne eine nachträgliche Genehmigung durch Christian das Geschäft über den MPR3-Player nicht zustande.",
+      "correctAnswer": true,
+      "topic": "Irrtum, Stellvertretung, Schuldverhältnis, Leistungsstörungen",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Die Vollmacht ist inhaltlich auf den Kauf eines Laptops beschränkt, der Kauf eines MP3-Players ist von der Vollmacht nicht gedeckt."
+    },
+    {
+      "id": "Q149",
+      "statement": "Axel kauft für seine Verlobte einen Ring. Als er heimkommt, stellt er fest, dass sie ihn verlassen hat. Axel kann den Vertrag mit dem Juwelier wegen eines Geschäftsirrtums erfolgreich anfechten.",
+      "correctAnswer": false,
+      "topic": "Irrtum, Stellvertretung, Schuldverhältnis, Leistungsstörungen",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Die Trennung betrifft nur den Beweggrund für den Kauf, nicht den Inhalt des Geschäfts; das ist ein unverbindlicher Motivirrtum."
+    },
+    {
+      "id": "Q150",
+      "statement": "Im Gewährleistungsrecht besteht ein Wahlrecht zwischen den primären und sekundären Gewährleistungsbehelfen.",
+      "correctAnswer": false,
+      "topic": "Irrtum, Stellvertretung, Schuldverhältnis, Leistungsstörungen",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Zunächst sind Verbesserung oder Austausch vorrangig, sekundäre Behelfe (Preisminderung, Wandlung) sind grundsätzlich erst nachrangig zulässig."
+    },
+    {
+      "id": "Q151",
+      "statement": "Kernaufgaben der staatlichen Verwaltung dürfen nicht auf ausgegliederte Rechtsträger übertragen werden.",
+      "correctAnswer": true,
+      "topic": "Verwaltungsrecht",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Hoheitliche Kernaufgaben müssen bei staatlichen Hoheitsträgern verbleiben und dürfen nicht vollständig privatisiert werden."
+    },
+    {
+      "id": "Q152",
+      "statement": "Die Unterscheidung zwischen Hoheits- und Privatwirtschaftsverwaltung ist hinsichtlich der Frage der Haftung von Bedeutung.",
+      "correctAnswer": true,
+      "topic": "Verwaltungsrecht",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "In der Hoheitsverwaltung gelten Amtshaftungsregeln, in der Privatwirtschaftsverwaltung gelten grundsätzlich privatrechtliche Haftungsnormen."
+    },
+    {
+      "id": "Q153",
+      "statement": "Gegen einen Akt unmittelbarer Befehls- und Zwangsgewalt steht die Maßnahmenbeschwerde an das Verwaltungsgericht zur Verfügung.",
+      "correctAnswer": true,
+      "topic": "Verwaltungsrecht",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Unmittelbare verwaltungsbehördliche Befehls- und Zwangsgewalt wird durch die Maßnahmenbeschwerde beim Verwaltungsgericht überprüft."
+    },
+    {
+      "id": "Q154",
+      "statement": "Die Rechtsanwaltskammer ist nicht der beruflichen Selbstverwaltung zuordenbar.",
+      "correctAnswer": false,
+      "topic": "Verwaltungsrecht",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Rechtsanwaltskammern sind typische berufsständische Selbstverwaltungskörperschaften des öffentlichen Rechts."
+    },
+    {
+      "id": "Q155",
+      "statement": "In den Angelegenheiten der Landesverwaltung ist der Landeshauptmann gegenüber den Bezirksverwaltungsbehörden weisungsberechtigt.",
+      "correctAnswer": false,
+      "topic": "Verwaltungsrecht",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "In Angelegenheiten der Landesverwaltung besteht regelmäßig Weisungsunterworfenheit gegenüber der Landesregierung, nicht unmittelbar nur gegenüber dem Landeshauptmann."
+    },
+    {
+      "id": "Q156",
+      "statement": "Fehlt bei einem Bescheid die Bezeichnung der erlassenden Behörde oder des Adressaten, so verhindert dies seine rechtswirksame Entstehung.",
+      "correctAnswer": true,
+      "topic": "Verwaltungsrecht, EU-Recht",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Bestimmte Mindestinhalte wie erlassende Behörde und Adressat sind Wirksamkeitsvoraussetzungen eines Bescheids."
+    },
+    {
+      "id": "Q157",
+      "statement": "Die Grundrechtecharta (GRC) zählt zum EU-Sekundärrecht.",
+      "correctAnswer": false,
+      "topic": "Verwaltungsrecht, EU-Recht",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Die GRC hat durch Verweis im Primärrecht verfassungsähnlichen Rang und wird nicht als bloßes Sekundärrecht behandelt."
+    },
+    {
+      "id": "Q158",
+      "statement": "Der Verwaltungsgerichtshof ist zuständig, über einen Antrag auf Normenkontrolle zu entscheiden, der von einem Drittel der Mitglieder des Nationalrates gestellt wird.",
+      "correctAnswer": false,
+      "topic": "Verwaltungsrecht, EU-Recht",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Über Anträge auf Gesetzesprüfung eines Drittels der Nationalratsmitglieder entscheidet der Verfassungsgerichtshof, nicht der Verwaltungsgerichtshof."
+    },
+    {
+      "id": "Q159",
+      "statement": "Verordnungen der EU müssen innerstaatlich noch umgesetzt werden.",
+      "correctAnswer": false,
+      "topic": "Verwaltungsrecht, EU-Recht",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Verordnungen gelten unmittelbar in allen Mitgliedstaaten, ohne dass es einer Umsetzung bedarf."
+    },
+    {
+      "id": "Q160",
+      "statement": "Auswahlermessen bedeutet, dass die Behörde frei entscheiden kann, ob sie handelt oder nicht.",
+      "correctAnswer": false,
+      "topic": "Verwaltungsrecht, EU-Recht",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Auswahlermessen betrifft die Wahl zwischen mehreren Rechtsfolgen, nicht die Frage, ob überhaupt gehandelt wird."
+    },
+    {
+      "id": "Q161",
+      "statement": "„Derogationszusammenhang“ bedeutet, dass die Normen, die im Stufenbau der Rechtsordnung nachgeordnet sind, gegenüber den höherrangigen Normen die konkreteren sind.",
+      "correctAnswer": false,
+      "topic": "Rechtsbegriff, Geltungsbereich, Stufenbau",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Der Derogationszusammenhang meint das Aufhebungsverhältnis, nicht bloss eine inhaltliche Konkretheit niedrigerer Normen."
+    },
+    {
+      "id": "Q162",
+      "statement": "Der sachliche Geltungsbereich einer Norm regelt, auf welchen Personenkreis eine Norm Anwendung findet.",
+      "correctAnswer": false,
+      "topic": "Rechtsbegriff, Geltungsbereich, Stufenbau",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Der sachliche Geltungsbereich betrifft die geregelten Sachverhalte; der persönliche Geltungsbereich betrifft die erfassten Personen."
+    },
+    {
+      "id": "Q163",
+      "statement": "Verfassungsfunktion der Rechtsordnung heißt, dass staatliche Organe an ermächtigende Gesetze gebunden sind.",
+      "correctAnswer": true,
+      "topic": "Rechtsbegriff, Geltungsbereich, Stufenbau",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Die Verfassungsfunktion besteht unter anderem darin, staatliche Organe an die in der Verfassung vorgesehenen Zuständigkeiten und Ermächtigungen zu binden."
+    },
+    {
+      "id": "Q164",
+      "statement": "Im Stufenbau der Rechtsordnung stehen einfache Bundes- und Landesgesetze auf der gleichen Ebene.",
+      "correctAnswer": true,
+      "topic": "Rechtsbegriff, Geltungsbereich, Stufenbau",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Beide sind einfaches Gesetzesrecht; Unterschiede ergeben sich aus der Kompetenzverteilung, nicht aus der Stufenhöhe."
+    },
+    {
+      "id": "Q165",
+      "statement": "§ 5 Abs 1 StVO bestimmt: „Wer sich in einem durch Alkohol oder Suchtgift beeinträchtigten Zustand befindet, darf ein Fahrzeug weder lenken noch in Betrieb nehmen.“ Es handelt sich hierbei um eine Verhaltensnorm.",
+      "correctAnswer": true,
+      "topic": "Rechtsbegriff, Geltungsbereich, Stufenbau",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Die Norm richtet sich an das Verhalten von Verkehrsteilnehmern und ordnet ein bestimmtes Tun bzw. Unterlassen an."
+    },
+    {
+      "id": "Q166",
+      "statement": "Wird ein Schaden durch leicht fahrlässiges Verhalten herbeigeführt, so ist sowohl der positive Schaden als auch der entgangene Gewinn zu ersetzen.",
+      "correctAnswer": false,
+      "topic": "Besonderes Vertragsrecht, Schadenersatzrecht, Sachenrecht",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Bei leichter Fahrlässigkeit kann der Ersatz des entgangenen Gewinns eingeschränkt sein, insbesondere im vertraglichen Bereich."
+    },
+    {
+      "id": "Q167",
+      "statement": "Malermeister M schickt seinen Gehilfen B, um die Wohnung seines Kunden K auszumalen. Dabei stößt B aus Versehen den Farbkübel um, weshalb der Fußboden des K vollkommen mit Farbe überflutet wird. K kann nur vom Gehilfen B, nicht jedoch von M Schadenersatz verlangen.",
+      "correctAnswer": false,
+      "topic": "Besonderes Vertragsrecht, Schadenersatzrecht, Sachenrecht",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Der Unternehmer haftet für seinen Erfüllungsgehilfen wie für eigenes Verschulden, K kann sich an M halten."
+    },
+    {
+      "id": "Q168",
+      "statement": "„Innehabung“ im Sinne des Sachenrechts bedeutet, dass eine Person Eigentümer einer Sache ist – also das Vollrecht daran hat.",
+      "correctAnswer": false,
+      "topic": "Besonderes Vertragsrecht, Schadenersatzrecht, Sachenrecht",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Innehabung ist die tatsächliche Sachherrschaft; Eigentum ist ein rechtliches Vollrecht und setzt Innehabung nicht zwingend voraus."
+    },
+    {
+      "id": "Q169",
+      "statement": "Allgemeine Angaben über ein Grundstück (zB Grundstücksnummer) sind im C-Blatt des Grundbuches eingetragen.",
+      "correctAnswer": false,
+      "topic": "Besonderes Vertragsrecht, Schadenersatzrecht, Sachenrecht",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Gutsbestandsdaten wie Grundstücksnummern stehen im A-Blatt; das C-Blatt enthält Belastungen wie Hypotheken und Dienstbarkeiten."
+    },
+    {
+      "id": "Q170",
+      "statement": "Barbara erteilt der Dach-GmbH den „Auftrag“, ihr Dach zu decken. Beim Vertrag zwischen Barbara und der Dach-GmbH handelt es sich um einen Werkvertrag.",
+      "correctAnswer": true,
+      "topic": "Besonderes Vertragsrecht, Schadenersatzrecht, Sachenrecht",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Beim Dachdecken schuldet der Unternehmer ein bestimmtes Werk, typisch für einen Werkvertrag."
+    },
+    {
+      "id": "Q171",
+      "statement": "Die Volksabstimmung ist ein Mittel der indirekten (repräsentativen) Demokratie.",
+      "correctAnswer": false,
+      "topic": "Verfassungsrecht",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Volksabstimmungen sind Instrumente unmittelbarer Demokratie, weil das Volk direkt entscheidet."
+    },
+    {
+      "id": "Q172",
+      "statement": "Die Landesgesetzgebung erfolgt durch die jeweiligen Landtage, welche durch das Volk gewählt werden.",
+      "correctAnswer": true,
+      "topic": "Verfassungsrecht",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Landtage sind die gesetzgebenden Organe der Länder und werden von den Landesbürgern gewählt."
+    },
+    {
+      "id": "Q173",
+      "statement": "Vom Schutzbereich der Eigentumsfreiheit ist auch die Privatautonomie umfasst.",
+      "correctAnswer": true,
+      "topic": "Verfassungsrecht",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Die Freiheit, über das eigene Vermögen zu verfügen und Verträge zu schließen, ist Teil der Eigentumsfreiheit."
+    },
+    {
+      "id": "Q174",
+      "statement": "Die Freiheit der Erwerbsausübung ist ein Grundrecht, das unter keinen Umständen beschränkt werden darf.",
+      "correctAnswer": false,
+      "topic": "Verfassungsrecht",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Auch die Erwerbsfreiheit kann aus öffentlichen Interessen unter Beachtung der Verhältnismäßigkeit beschränkt werden."
+    },
+    {
+      "id": "Q175",
+      "statement": "Gemäß Art 102 B-VG wird das Pflegegeldwesen grundsätzlich durch unmittelbare Bundesverwaltung vollzogen.",
+      "correctAnswer": true,
+      "topic": "Verfassungsrecht",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Das Pflegegeld ist eine Materie, die im Regelfall in unmittelbarer Bundesverwaltung vollzogen wird."
+    },
+    {
+      "id": "Q176",
+      "statement": "AGB können auch noch nachträglich Vertragsinhalt werden, wenn beispielsweise der Unternehmer bei der Rechnungslegung auf deren Geltung hinweist.",
+      "correctAnswer": false,
+      "topic": "Vertragsabschluss",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "AGB müssen spätestens bei Vertragsschluss einbezogen werden; ein bloßer späterer Hinweis reicht grundsätzlich nicht."
+    },
+    {
+      "id": "Q177",
+      "statement": "Verkauft jemand eine fremde Sache, so kommt ein gültiger Vertrag zustande.",
+      "correctAnswer": true,
+      "topic": "Vertragsabschluss",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Der Kaufvertrag über eine fremde Sache ist gültig; der Verkäufer schuldet dann die Verschaffung des Eigentums."
+    },
+    {
+      "id": "Q178",
+      "statement": "Im Öffnungszeitengesetz ist festgelegt, um welche Uhrzeit Geschäfte am Abend spätestens schließen müssen. Wird gegen die Regelungen des Öffnungszeitengesetzes verstoßen, so liegt Gesetzwidrigkeit iSd § 879 ABGB vor, die die Nichtigkeit des Vertrages zur Folge hat.",
+      "correctAnswer": false,
+      "topic": "Vertragsabschluss",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Verstöße gegen Öffnungszeitenregeln führen in der Regel zu verwaltungsrechtlichen Sanktionen, nicht zur Nichtigkeit von Kaufverträgen."
+    },
+    {
+      "id": "Q179",
+      "statement": "Alfred bietet Ramona sein Auto um 10.000 EUR an. Ramona antwortet innerhalb der Bindungsfrist: „Geht in Ordnung … ich kaufe dein Auto um 10.000 EUR abzüglich 2% Skonto bei Barzahlung.“ Es ist damit noch kein Vertrag zustande gekommen.",
+      "correctAnswer": true,
+      "topic": "Vertragsabschluss",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Ramona ändert den Inhalt des Angebots, ihre Erklärung gilt als neues Gegenangebot, das Alfred erst annehmen müsste."
+    },
+    {
+      "id": "Q180",
+      "statement": "Die Warenpräsentation in einem Schaufenster ist rechtlich nicht als Angebot zu qualifizieren.",
+      "correctAnswer": true,
+      "topic": "Vertragsabschluss",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Schaufensterauslagen gelten regelmäßig als Einladung zur Angebotslegung, nicht als verbindliches Angebot."
+    },
+    {
+      "id": "Q181",
+      "statement": "Der 10-jährige Moritz schlägt aus Langeweile die Fensterscheibe eines Autos ein. Aufgrund mangelnder Deliktsfähigkeit kann von Moritz keinesfalls Ersatz verlangt werden.",
+      "correctAnswer": false,
+      "topic": "Privatrecht - Begriff, Rechts- und Handlungsfähigkeit",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Mit 10 Jahren kann Deliktsfähigkeit vorliegen, wenn Einsichts- und Urteilsfähigkeit gegeben ist; Haftung ist nicht ausgeschlossen."
+    },
+    {
+      "id": "Q182",
+      "statement": "Ein Schenkungsvertrag kommt nur dann wirksam zustande, wenn entweder das Geschenk sofort übergeben wird oder über die Schenkung ein Notariatsakt verfasst wird.",
+      "correctAnswer": true,
+      "topic": "Privatrecht - Begriff, Rechts- und Handlungsfähigkeit",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Das ABGB verlangt für Schenkungsversprechen grundsätzlich die Form des Notariatsaktes, außer bei sofortiger Übergabe."
+    },
+    {
+      "id": "Q183",
+      "statement": "Wenn Anton mit seinem Auto in eine Parkgarage fährt, die deutlich lesbar als „gebührenpflichtig“ gekennzeichnet ist, so ist damit konkludent zwischen ihm und dem Garagenunternehmen ein Vertrag zustande gekommen.",
+      "correctAnswer": true,
+      "topic": "Privatrecht - Begriff, Rechts- und Handlungsfähigkeit",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Durch das Einfahren in Kenntnis der Gebührenpflicht erklärt Anton schlüssig seine Zustimmung zum entgeltlichen Garagennutzungsvertrag."
+    },
+    {
+      "id": "Q184",
+      "statement": "Eine Willenserklärung kann solange einseitig widerrufen werden, bis sie der Empfänger gelesen hat.",
+      "correctAnswer": true,
+      "topic": "Privatrecht - Begriff, Rechts- und Handlungsfähigkeit",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Maßgeblich ist der Zugang der Erklärung; geht der Widerruf vor oder gleichzeitig mit der Erklärung zu, kann sie wirksam widerrufen werden."
+    },
+    {
+      "id": "Q185",
+      "statement": "Kauft der 5-jährige Bernhard um 1 EUR einen Liebesroman und zahlt sogleich, so kommt gem § 170 Abs 3 ABGB ausnahmsweise ein gültiger Kaufvertrag zustande.",
+      "correctAnswer": false,
+      "topic": "Privatrecht - Begriff, Rechts- und Handlungsfähigkeit",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Ein Liebesroman ist kein typisches geringfügiges Taschengeldgeschäft eines 5-Jährigen; Geschäftsunfähigkeit führt zur Unwirksamkeit."
+    },
+    {
+      "id": "Q186",
+      "statement": "Bei der Auslegung von Rechtsvorschriften gibt es grundsätzlich einen Vorrang der subjektiv-historischen Interpretation.",
+      "correctAnswer": false,
+      "topic": "Rechtsbegriff, Interpretation, Rechtspersonen",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Die klassischen Auslegungsmethoden stehen gleichrangig nebeneinander und werden kombiniert, keine genießt generellen Vorrang."
+    },
+    {
+      "id": "Q187",
+      "statement": "Dispositives Recht kommt dann zur Anwendung, wenn die Vertragsparteien nichts Abweichendes vereinbart haben.",
+      "correctAnswer": true,
+      "topic": "Rechtsbegriff, Interpretation, Rechtspersonen",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Dispositive Normen gelten nur ersatzweise und können durch Parteivereinbarung abbedungen werden."
+    },
+    {
+      "id": "Q188",
+      "statement": "§ 125 StGB bestimmt: „Wer eine fremde Sache zerstört …, ist mit Freiheitsstrafe bis zu sechs Monaten … zu bestrafen.“ Den ersten Teil der Rechtsnorm („Wer eine fremde Sache zerstört …“) bezeichnet man als Rechtsfolge, den zweiten Teil („ist mit einer Freiheitsstrafe …“) als Sachverhalt.",
+      "correctAnswer": false,
+      "topic": "Rechtsbegriff, Interpretation, Rechtspersonen",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Der erste Teil beschreibt den Tatbestand (Sachverhalt), der zweite Teil enthält die Rechtsfolge (Strafe)."
+    },
+    {
+      "id": "Q189",
+      "statement": "Wenn aus der Norm „Baden verboten“ abgeleitet wird, dass auch das Autowaschen verboten ist, so zieht man einen sogenannten Größenschluss.",
+      "correctAnswer": true,
+      "topic": "Rechtsbegriff, Interpretation, Rechtspersonen",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Es wird vom Verbot eines schwereren Eingriffs auf das Verbot eines geringeren Eingriffs geschlossen, typisch für den Größenschluss."
+    },
+    {
+      "id": "Q190",
+      "statement": "Die österreichischen Bundesländer sind juristische Personen des öffentlichen Rechts.",
+      "correctAnswer": true,
+      "topic": "Rechtsbegriff, Interpretation, Rechtspersonen",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Bundesländer sind Gebietskörperschaften mit eigener Rechtspersönlichkeit des öffentlichen Rechts."
+    },
+    {
+      "id": "Q191",
+      "statement": "Durch den Beitritt Österreichs zur Europäischen Union wurde in das demokratische, das rechtsstaatliche und das bundesstaatliche Grundprinzip eingegriffen, weshalb zwingend eine Volksabstimmung durchzuführen war.",
+      "correctAnswer": true,
+      "topic": "Verfassungsrecht",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Der EU-Beitritt stellte eine Gesamtänderung der Bundesverfassung dar, die nach Art 44 Abs 3 B-VG einer Volksabstimmung bedurfte."
+    },
+    {
+      "id": "Q192",
+      "statement": "Bei der unmittelbaren Bundesverwaltung werden Angelegenheiten, die dem Bund zur Vollziehung zugewiesen sind, von Verwaltungsbehörden der Länder vollzogen.",
+      "correctAnswer": false,
+      "topic": "Verfassungsrecht",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Bei unmittelbarer Bundesverwaltung vollziehen Bundesbehörden; bei mittelbarer Bundesverwaltung bedienen sich Bundesorgane der Landesbehörden."
+    },
+    {
+      "id": "Q193",
+      "statement": "Das republikanische Grundprinzip besagt, dass die Staatsgewalt zwischen Bund und Ländern aufgeteilt ist.",
+      "correctAnswer": false,
+      "topic": "Verfassungsrecht",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Die Aufteilung zwischen Bund und Ländern betrifft das bundesstaatliche Grundprinzip; das republikanische Grundprinzip betrifft die Staatsform ohne Monarchie."
+    },
+    {
+      "id": "Q194",
+      "statement": "Im Verfahren der Bundesgesetzgebung kommt dem Bundesrat im Regelfall nur ein suspensives Veto zu.",
+      "correctAnswer": true,
+      "topic": "Verfassungsrecht",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Der Bundesrat kann einfache Bundesgesetze meist nur aufschiebend beeinspruchen, der Nationalrat kann mit Beharrungsbeschluss festhalten."
+    },
+    {
+      "id": "Q195",
+      "statement": "Die Zuständigkeiten von Bund und Ländern auf dem Gebiet des Abgabenwesens werden durch ein eigenes Finanzverfassungsgesetz (F-VG) geregelt.",
+      "correctAnswer": true,
+      "topic": "Verfassungsrecht",
+      "source": "Prüfungsfragen 2. Klausurtermin WS17",
+      "points": 1,
+      "explanation": "Die finanzverfassungsrechtliche Kompetenzverteilung ergibt sich aus dem Finanz-Verfassungsgesetz."
+    },
+      {
+        "id": "Q196",
+        "statement": "Das Schadenersatzrecht des ABGB (§§ 1293 ff) gewährt einen Ersatzanspruch, wenn der Schädiger den Geschädigten rechtswidrig und schuldhaft geschädigt hat.",
+        "correctAnswer": true,
+        "topic": "Besonderes Vertragsrecht, Schadenersatzrecht, Sachenrecht",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Die allgemeinen Schadenersatzregeln des ABGB setzen regelmäßig Rechtswidrigkeit, Verschulden, Schaden und Kausalität voraus."
+      },
+      {
+        "id": "Q197",
+        "statement": "Petra möchte die Fassade ihres Einfamilienhauses erneuern lassen. Zu diesem Zweck tritt sie mit der X-GmbH in Kontakt und lässt sich einen Kostenvoranschlag erstellen. Für die Erstellung eines Kostenvoranschlags kann die X-GmbH nur dann ein Entgelt verlangen, wenn sie Petra vor der Erstellung auf die Entgeltlichkeit hingewiesen hat.",
+        "correctAnswer": true,
+        "topic": "Besonderes Vertragsrecht, Schadenersatzrecht, Sachenrecht",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Kostenvoranschläge sind grundsätzlich unentgeltlich, es sei denn, die Entgeltlichkeit wird vorab ausdrücklich vereinbart oder darauf hingewiesen."
+      },
+      {
+        "id": "Q198",
+        "statement": "Im B-Blatt des Grundbuchs wird über die Eigentumsverhältnisse Auskunft gegeben.",
+        "correctAnswer": true,
+        "topic": "Besonderes Vertragsrecht, Schadenersatzrecht, Sachenrecht",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Das B-Blatt ist das Eigentumsblatt; dort sind Eigentümer:innen und ihre Quoten eingetragen."
+      },
+      {
+        "id": "Q199",
+        "statement": "Sachenrechte sind relative Rechte.",
+        "correctAnswer": false,
+        "topic": "Besonderes Vertragsrecht, Schadenersatzrecht, Sachenrecht",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Sachenrechte wirken grundsätzlich gegenüber jedermann (erga omnes) und sind daher absolute Rechte, nicht bloß relative."
+      },
+      {
+        "id": "Q200",
+        "statement": "Eigentum an einer beweglichen Sache wird wirksam übertragen, wenn ein Rechtsgrund (zB Vertrag) dafür gegeben ist und die Sache übergeben wird.",
+        "correctAnswer": true,
+        "topic": "Besonderes Vertragsrecht, Schadenersatzrecht, Sachenrecht",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Für den Eigentumserwerb an Fahrnissen braucht es Titel (zB Kaufvertrag) und Modus (Übergabe)."
+      },
+      {
+        "id": "Q201",
+        "statement": "Weist eine geschenkte Sache einen Mangel auf, so können grundsätzlich auch Gewährleistungsansprüche geltend gemacht werden.",
+        "correctAnswer": false,
+        "topic": "Irrtum, Stellvertretung, Schuldverhältnis, Leistungsstörungen",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Bei Schenkungen ist die Gewährleistung stark eingeschränkt; bei unentgeltlichen Geschäften besteht grundsätzlich keine volle Gewährleistungspflicht wie beim Kauf."
+      },
+      {
+        "id": "Q202",
+        "statement": "Während Geschäfts- und Motivirrtümer jedenfalls beachtlich sind, ist dies bei Erklärungsirrtümern nur ausnahmsweise der Fall.",
+        "correctAnswer": false,
+        "topic": "Irrtum, Stellvertretung, Schuldverhältnis, Leistungsstörungen",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Der Erklärungsirrtum ist der klassisch beachtliche Irrtumstatbestand; Motivirrtümer sind grundsätzlich unbeachtlich, außer in Sonderfällen."
+      },
+      {
+        "id": "Q203",
+        "statement": "Anton verkauft Bert einen gebrauchten Laptop. Vereinbart ist, dass die Übergabe am 14.4. in der Aula der Universität Klagenfurt stattfinden soll. Am 14.4. erscheint jedoch nur Anton mit dem Laptop. Bert hat den Termin „übersehen“. Es liegt Gläubigerverzug vor.",
+        "correctAnswer": true,
+        "topic": "Irrtum, Stellvertretung, Schuldverhältnis, Leistungsstörungen",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Bert nimmt die ordnungsgemäß angebotene Leistung nicht an und befindet sich damit im Annahmeverzug (Gläubigerverzug)."
+      },
+      {
+        "id": "Q204",
+        "statement": "Andreas bevollmächtigt Sabine, für ihn eine Uhr um maximal 300,-- € beim Juwelier Jürgen zu kaufen. Kauft Sabine im Namen von Andreas eine Uhr um 360,-- €, so handelt sie als Scheinvertreterin. Es kommt ohne die nachträgliche Genehmigung durch Andreas kein gültiger Vertrag zustande.",
+        "correctAnswer": true,
+        "topic": "Irrtum, Stellvertretung, Schuldverhältnis, Leistungsstörungen",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Sabine überschreitet die eingeräumte Vertretungsmacht; ohne Genehmigung des Vertretenen liegt Vertretung ohne Vertretungsmacht vor."
+      },
+      {
+        "id": "Q205",
+        "statement": "Ein Gewährleistungsanspruch besteht bei beweglichen Sachen für Mängel, die innerhalb von zwei Jahren nach der Übergabe der Sache auftreten – unabhängig davon, ob die Mängel bei Übergabe bereits vorhanden oder angelegt waren oder nicht.",
+        "correctAnswer": false,
+        "topic": "Irrtum, Stellvertretung, Schuldverhältnis, Leistungsstörungen",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Gewährleistung setzt voraus, dass der Mangel bei Übergabe bereits vorhanden (oder zumindest angelegt) ist; die Frist regelt nur die Dauer der Haftung."
+      },
+      {
+        "id": "Q206",
+        "statement": "Dem öffentlichen Recht sind jene Rechte und Rechtsverhältnisse zugeordnet, die im Wesentlichen auf die Beziehungen einzelner Bürger untereinander und deren Interessen bezogen sind.",
+        "correctAnswer": false,
+        "topic": "Rechtsbegriff, Interpretation, Rechtspersonen",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Die Beziehungen der Bürger:innen untereinander sind Gegenstand des Privatrechts; öffentliches Recht regelt vor allem das Verhältnis Staat–Bürger und die Organisation des Staates."
+      },
+      {
+        "id": "Q207",
+        "statement": "Trifft der Gesetzgeber planwidrig eine überschießende Regelung, ist eine teleologische Reduktion zulässig.",
+        "correctAnswer": true,
+        "topic": "Rechtsbegriff, Interpretation, Rechtspersonen",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Teleologische Reduktion wird angewandt, wenn der Wortlaut Fälle erfasst, die nach Sinn und Zweck nicht erfasst sein sollen."
+      },
+      {
+        "id": "Q208",
+        "statement": "Die Wortfolge des § 75 StGB „Wer einen anderen tötet“ bildet den Tatbestand und die Formulierung „ist mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen“ bildet die Rechtsfolge dieser Norm.",
+        "correctAnswer": true,
+        "topic": "Rechtsbegriff, Interpretation, Rechtspersonen",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Tatbestand beschreibt das verbotene Verhalten, die Rechtsfolge nennt die daran geknüpfte Sanktion."
+      },
+      {
+        "id": "Q209",
+        "statement": "Bei der historischen Interpretation wird versucht, den subjektiven Willen des Gesetzgebers durch Heranziehung der sogenannten Gesetzesmaterialien zu ermitteln.",
+        "correctAnswer": true,
+        "topic": "Rechtsbegriff, Interpretation, Rechtspersonen",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Historische Interpretation stützt sich auf Materialien wie Regierungsvorlagen oder Ausschussberichte, um die Entstehungsgeschichte zu klären."
+      },
+      {
+        "id": "Q210",
+        "statement": "Im Privatrecht kommt der teleologischen Interpretation aufgrund von Rechtssicherheitsbedenken eine geringere Bedeutung zu als im öffentlichen Recht.",
+        "correctAnswer": false,
+        "topic": "Rechtsbegriff, Interpretation, Rechtspersonen",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Teleologische Interpretation ist in beiden Bereichen wichtig; ein genereller Bedeutungsunterschied besteht so nicht."
+      },
+      {
+        "id": "Q211",
+        "statement": "Das Bundesverfassungsgesetz (B-VG) ist das Stammgesetz der österreichischen Bundesverfassung und auch die einzige Rechtsquelle der österreichischen Bundesverfassung.",
+        "correctAnswer": false,
+        "topic": "Verfassungsrecht",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Neben dem B-VG existieren zahlreiche weitere formelle Verfassungsgesetze und -bestimmungen (zB EMRK, Staatsverträge mit Verfassungsrang)."
+      },
+      {
+        "id": "Q212",
+        "statement": "Verfassungsrecht im formellen Sinn zeichnet sich dadurch aus, dass eine Rechtsnorm die formellen Voraussetzungen für das Zustandekommen von Verfassungsrecht (erhöhte Anwesenheits- und Beschlussquoren, ausdrückliche Bezeichnung) erfüllt.",
+        "correctAnswer": true,
+        "topic": "Verfassungsrecht",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Formelles Verfassungsrecht knüpft an das besondere Verfassungsgebungsverfahren und die ausdrückliche Bezeichnung als Verfassungsrecht an."
+      },
+      {
+        "id": "Q213",
+        "statement": "Bei einer Teiländerung der Bundesverfassung ist die Durchführung einer Volksabstimmung verpflichtend.",
+        "correctAnswer": false,
+        "topic": "Verfassungsrecht",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Zwingende Volksabstimmungen sind nur bei Gesamtänderungen der Bundesverfassung vorgesehen, nicht bei bloßen Teiländerungen."
+      },
+      {
+        "id": "Q214",
+        "statement": "Repräsentative (= mittelbare) Demokratie heißt, dass die staatliche Willensbildung durch die vom Volk gewählten VertreterInnen erfolgt.",
+        "correctAnswer": true,
+        "topic": "Verfassungsrecht",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "In der repräsentativen Demokratie werden politische Entscheidungen im Regelfall durch gewählte Organe getroffen."
+      },
+      {
+        "id": "Q215",
+        "statement": "Der Grundsatz der Gewaltenteilung besagt, dass staatliche Macht auf verschiedene Funktionsträger aufgeteilt werden soll, um staatliche Macht in Grenzen zu halten.",
+        "correctAnswer": true,
+        "topic": "Verfassungsrecht",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Die Trennung von Gesetzgebung, Verwaltung und Gerichtsbarkeit dient der Machtbegrenzung und Kontrolle."
+      },
+      {
+        "id": "Q216",
+        "statement": "Der Bundesrat ist ein Organ des Bundes, durch das der Bund bei der Gesetzgebung der Länder mitwirken kann.",
+        "correctAnswer": false,
+        "topic": "Verfassungsrecht",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Der Bundesrat ist die Ländervertretung auf Bundesebene und wirkt an der Bundesgesetzgebung mit, nicht umgekehrt."
+      },
+      {
+        "id": "Q217",
+        "statement": "Die Eigentumsfreiheit schützt natürliche und juristische Personen unabhängig von deren Staatszugehörigkeit.",
+        "correctAnswer": true,
+        "topic": "Verfassungsrecht",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Eigentumsschutz steht grundsätzlich allen Personen offen, nicht nur Staatsbürger:innen."
+      },
+      {
+        "id": "Q218",
+        "statement": "Eine gesetzliche Beschränkung der Erwerbsfreiheit ist ausnahmslos unzulässig.",
+        "correctAnswer": false,
+        "topic": "Verfassungsrecht",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Die Erwerbsfreiheit kann durch Gesetz aus sachlichen Gründen und unter Wahrung der Verhältnismäßigkeit beschränkt werden."
+      },
+      {
+        "id": "Q219",
+        "statement": "Der Bundesrat hat dann, wenn durch ein Bundesgesetz Länderkompetenzen eingeschränkt werden sollen, ein absolutes Vetorecht.",
+        "correctAnswer": true,
+        "topic": "Verfassungsrecht",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "In bestimmten Fällen, insbesondere bei Eingriffen in Länderkompetenzen, ist die Zustimmung des Bundesrats zwingend (absolutes Veto)."
+      },
+      {
+        "id": "Q220",
+        "statement": "Die österreichischen Grundrechte sind Ausfluss des liberalen Grundprinzips und primär als Abwehrrechte gegen den Staat konzipiert.",
+        "correctAnswer": true,
+        "topic": "Verfassungsrecht",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Klassische Grundrechte schützen den Einzelnen vor Eingriffen staatlicher Gewalt und sind zentraler Bestandteil des liberalen Rechtsstaats."
+      },
+      {
+        "id": "Q221",
+        "statement": "Im Rahmen der Einbeziehungskontrolle von AGBs reicht es, wenn diese im Geschäft sichtbar ausgehängt sind.",
+        "correctAnswer": true,
+        "topic": "Vertragsabschluss",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Ein deutlicher Hinweis und die Möglichkeit, vom Inhalt der AGB Kenntnis zu nehmen, genügen in der Regel für ihre Einbeziehung."
+      },
+      {
+        "id": "Q222",
+        "statement": "Alex unterfertigt ein von Christian an ihn adressiertes Vertragsanbot, ohne es gelesen zu haben. Anschließend retourniert er es an Christian. Dadurch ist ein gültiger Vertrag zustande gekommen.",
+        "correctAnswer": true,
+        "topic": "Vertragsabschluss",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Wer unterschreibt, muss sich den Inhalt zurechnen lassen; das Nichtlesen schützt grundsätzlich nicht vor der Bindung."
+      },
+      {
+        "id": "Q223",
+        "statement": "Von Verträgen, die im Fernabsatz abgeschlossen wurden, kann der Verbraucher oder die Verbraucherin zurücktreten, wenn ein wichtiger Grund vorliegt.",
+        "correctAnswer": false,
+        "topic": "Vertragsabschluss",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Das Rücktrittsrecht nach FAGG besteht ohne Angabe von Gründen innerhalb der Frist; ein ‚wichtiger Grund‘ ist nicht erforderlich."
+      },
+      {
+        "id": "Q224",
+        "statement": "Beim Versprechen, einen toten Hund durch übersinnliche Kräfte wieder zum Leben zu erwecken, handelt es sich um ein faktisch absurdes Versprechen gem § 878 ABGB. Es ist kein gültiger Vertrag zustande gekommen.",
+        "correctAnswer": true,
+        "topic": "Vertragsabschluss",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Faktisch unmögliche Leistungen führen nach § 878 ABGB zur Nichtigkeit des Versprechens."
+      },
+      {
+        "id": "Q225",
+        "statement": "Die Erklärung des Willens zum Vertragsabschluss kann ausschließlich ausdrücklich erfolgen.",
+        "correctAnswer": false,
+        "topic": "Vertragsabschluss",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Willenserklärungen können auch schlüssig (konkludent) abgegeben werden; es bedarf nicht zwingend einer ausdrücklichen Erklärung."
+      },
+      {
+        "id": "Q226",
+        "statement": "Eine Aktiengesellschaft ist ebenso wie ein Verein rechtsfähig.",
+        "correctAnswer": true,
+        "topic": "Privatrecht - Begriff, Rechts- und Handlungsfähigkeit",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Sowohl AGs als auch Vereine sind juristische Personen und können Träger von Rechten und Pflichten sein."
+      },
+      {
+        "id": "Q227",
+        "statement": "Der 80-jährige Anton ist zwar körperlich noch recht fit, leidet aber schon seit einiger Zeit an schwerer Demenz. Auch seine nächsten Angehörigen erkennt er nicht mehr. Auf einem seiner Spaziergänge kauft er sich eine Packung Zigaretten. Der Vertrag kommt nicht gültig zustande.",
+        "correctAnswer": false,
+        "topic": "Privatrecht - Begriff, Rechts- und Handlungsfähigkeit",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Geschäftsfähigkeit knüpft nicht allein an das Alter oder eine Diagnose an; bei alltäglichen Kleingeschäften wird die Gültigkeit oft bejaht, sofern nicht gerichtliche Beschränkungen bestehen."
+      },
+      {
+        "id": "Q228",
+        "statement": "Die Haftung für eigenes rechtswidriges Verhalten beginnt ausnahmslos erst mit Vollendung des 14. Lebensjahres.",
+        "correctAnswer": false,
+        "topic": "Privatrecht - Begriff, Rechts- und Handlungsfähigkeit",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Deliktsfähigkeit hängt von Einsichts- und Urteilsfähigkeit ab; eine starre Grenze von 14 Jahren besteht so nicht für jede Haftungssituation."
+      },
+      {
+        "id": "Q229",
+        "statement": "Vom dispositiven Recht kann stets nur zugunsten einer Partei abgewichen werden.",
+        "correctAnswer": false,
+        "topic": "Privatrecht - Begriff, Rechts- und Handlungsfähigkeit",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Dispositives Recht kann von den Parteien grundsätzlich frei abgeändert werden, solange keine zwingenden Schutzbestimmungen verletzt werden."
+      },
+      {
+        "id": "Q230",
+        "statement": "Die 17-jährige Anna erhält als Lehrlingsentschädigung von monatlich 900,-- €; über Ersparnisse verfügt sie nicht. Sie kauft sich eine Vespa 250 um 6.000,-- €, wobei der Kaufpreis in monatlichen Raten zu je 750,-- € bezahlt werden soll. Der Vertrag ist nicht gültig zustande gekommen.",
+        "correctAnswer": true,
+        "topic": "Privatrecht - Begriff, Rechts- und Handlungsfähigkeit",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Als mündige Minderjährige ist Anna nur beschränkt geschäftsfähig; ein derart hochpreisiges Ratenkaufgeschäft übersteigt übliche Taschengeldgeschäfte und erfordert elterliche Zustimmung."
+      },
+      {
+        "id": "Q231",
+        "statement": "Das Legalitätsprinzip des Art 18 B-VG gilt sowohl für die Hoheits- als auch die Privatwirtschaftsverwaltung.",
+        "correctAnswer": false,
+        "topic": "Verwaltungsrecht",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Art 18 B-VG bezieht sich seinem klassischen Verständnis nach auf hoheitliches Handeln; für die Privatwirtschaftsverwaltung gilt nur eine abgeschwächte Bindung."
+      },
+      {
+        "id": "Q232",
+        "statement": "Sowohl im eigenen als auch im übertragenen Wirkungsbereich entscheidet die Gemeinde frei von Weisungen einer staatlichen Behörde.",
+        "correctAnswer": false,
+        "topic": "Verwaltungsrecht",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Im eigenen Wirkungsbereich ist die Gemeinde weisungsfrei, im übertragenen Wirkungsbereich jedoch an Weisungen übergeordneter Behörden gebunden."
+      },
+      {
+        "id": "Q233",
+        "statement": "Im Rahmen des eigenen Wirkungsbereichs kann gegen die Entscheidung des Bürgermeisters/der Bürgermeisterin das Rechtsmittel der Berufung erhoben werden.",
+        "correctAnswer": true,
+        "topic": "Verwaltungsrecht",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Gemeinderecht sieht typischerweise einen Instanzenzug gegen Entscheidungen des Bürgermeisters im eigenen Wirkungsbereich vor."
+      },
+      {
+        "id": "Q234",
+        "statement": "Ein Akt unmittelbarer Befehls- und Zwangsgewalt wird im Unterschied zu einem Bescheid weitgehend form- und verfahrensfrei gesetzt.",
+        "correctAnswer": true,
+        "topic": "Verwaltungsrecht",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Solche Akte erfolgen meist spontan ohne vorangehendes Ermittlungsverfahren oder schriftliche Begründung, zB polizeiliche Anhaltung."
+      },
+      {
+        "id": "Q235",
+        "statement": "Im Rahmen der Kausalgerichtsbarkeit entscheidet der Verfassungsgerichtshof Kompetenzkonflikte zwischen Bund und Ländern.",
+        "correctAnswer": false,
+        "topic": "Verwaltungsrecht",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Kompetenzkonflikte sind Sache der Kompetenzgerichtsbarkeit; Kausalgerichtsbarkeit betrifft typischerweise Staatshaftungsklagen."
+      },
+      {
+        "id": "Q236",
+        "statement": "Dem Europäischen Rat kommt grundsätzlich das Initiativmonopol hinsichtlich der Schaffung von Rechtsakten zu.",
+        "correctAnswer": false,
+        "topic": "Verwaltungsrecht, EU-Recht",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Das Initiativrecht für Gesetzgebungsakte liegt überwiegend bei der Europäischen Kommission, nicht beim Europäischen Rat."
+      },
+      {
+        "id": "Q237",
+        "statement": "Verträge (EUV, AEUV), Grundrechtecharta, Beitrittsverträge und Richtlinien zählen zum EU-Primärrecht.",
+        "correctAnswer": false,
+        "topic": "Verwaltungsrecht, EU-Recht",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "EUV, AEUV, Beitrittsverträge und GRC gehören zum Primärrecht; Richtlinien sind hingegen Sekundärrecht."
+      },
+      {
+        "id": "Q238",
+        "statement": "Beleihung bedeutet, dass die Befugnis zur Setzung von Hoheitsakten auf eigene Rechtsträger übertragen wird.",
+        "correctAnswer": true,
+        "topic": "Verwaltungsrecht, EU-Recht",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Bei der Beleihung werden Private durch Gesetz mit hoheitlichen Aufgaben betraut, etwa mit Bescheid- oder Verordnungskompetenz."
+      },
+      {
+        "id": "Q239",
+        "statement": "Das Fehlen der Unterschrift des genehmigenden Organs auf einem Bescheid verhindert das wirksame Entstehen des Bescheids.",
+        "correctAnswer": true,
+        "topic": "Verwaltungsrecht, EU-Recht",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Die Unterschrift bzw. Ausfertigung ist Wirksamkeitsvoraussetzung eines schriftlichen Bescheids; fehlt sie, liegt kein gültiger Bescheid vor."
+      },
+      {
+        "id": "Q240",
+        "statement": "Verordnungen der EU müssen innerstaatlich noch umgesetzt werden.",
+        "correctAnswer": false,
+        "topic": "Verwaltungsrecht, EU-Recht",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "EU-Verordnungen gelten unmittelbar in allen Mitgliedstaaten und bedürfen keiner Umsetzung in nationales Recht."
+      },
+      {
+        "id": "Q241",
+        "statement": "Orientierungsfunktion bedeutet, dass die Rechtsordnung Maßstäbe für rechtskonformes und daher erwartbares Verhalten innerhalb einer Gesellschaft festlegt.",
+        "correctAnswer": true,
+        "topic": "Rechtsbegriff, Geltungsbereich, Stufenbau",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Recht gibt Verhaltensmaßstäbe vor, an denen sich die Mitglieder der Gesellschaft orientieren können."
+      },
+      {
+        "id": "Q242",
+        "statement": "Das In-Kraft-Treten einer Norm wird immer ausdrücklich bestimmt.",
+        "correctAnswer": false,
+        "topic": "Rechtsbegriff, Geltungsbereich, Stufenbau",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Fehlt eine ausdrückliche Inkrafttretensbestimmung, greifen allgemeine Regeln (zB Inkrafttreten am Tag nach der Kundmachung)."
+      },
+      {
+        "id": "Q243",
+        "statement": "Art 24 B-VG regelt, dass die Gesetzgebung des Bundes durch den Nationalrat gemeinsam mit dem Bundesrat ausgeübt wird. Dabei handelt es sich nicht um eine Verhaltensnorm.",
+        "correctAnswer": true,
+        "topic": "Rechtsbegriff, Geltungsbereich, Stufenbau",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Die Norm legt die Zuständigkeit und Organisation der Gesetzgebung fest und ist eine Kompetenz- bzw. Organisationsnorm, keine Verhaltensnorm."
+      },
+      {
+        "id": "Q244",
+        "statement": "Das Allgemeine Verwaltungsverfahrensgesetz sieht vor, dass die Parteien zu einer mündlichen Verhandlung zu laden sind. Es handelt sich bei dieser Vorschrift um formelles Recht.",
+        "correctAnswer": true,
+        "topic": "Rechtsbegriff, Geltungsbereich, Stufenbau",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Das AVG regelt das Verfahren vor Verwaltungsbehörden und gehört damit zum formellen Verwaltungsrecht."
+      },
+      {
+        "id": "Q245",
+        "statement": "Aufgrund des weiteren örtlichen Anwendungsbereichs von Bundesgesetzen kommt ihnen im Vergleich zu Landesgesetzen im Rahmen des Stufenbaus der Rechtsordnung ein übergeordneter Rang zu.",
+        "correctAnswer": false,
+        "topic": "Rechtsbegriff, Geltungsbereich, Stufenbau",
+        "source": "Prüfungsfragen 3. Klausurtermin SS18",
+        "points": 1,
+        "explanation": "Im Stufenbau stehen einfache Bundes- und Landesgesetze auf derselben Stufe; der räumliche Geltungsbereich begründet keinen höheren Rang."
+      },
+        {
+          "id": "Q246",
+          "statement": "Verbraucher haben bei Fernabsatzgeschäften die Möglichkeit, vom Vertrag innerhalb einer bestimmten Frist und ohne Angabe von Gründen zurückzutreten.",
+          "correctAnswer": true,
+          "topic": "Vertragsabschluss",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Nach dem Fern- und Auswärtsgeschäfte-Gesetz (FAGG) steht Verbraucher:innen bei Fernabsatzgeschäften ein gesetzliches Rücktrittsrecht innerhalb einer bestimmten Frist zu, ohne dass ein besonderer Grund angegeben werden muss."
+        },
+        {
+          "id": "Q247",
+          "statement": "Wird eine fremde Sache verkauft, so kommt grundsätzlich ein gültiges Rechtsgeschäft zustande.",
+          "correctAnswer": true,
+          "topic": "Vertragsabschluss",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Der Verkauf einer fremden Sache ist zivilrechtlich grundsätzlich möglich; der Verkäufer übernimmt in diesem Fall das Beschaffungsrisiko. Die Gültigkeit des Kaufvertrages hängt nicht davon ab, dass der Verkäufer bereits Eigentümer ist."
+        },
+        {
+          "id": "Q248",
+          "statement": "Allgemeine Geschäftsbedingungen (AGB) werden nur dann Vertragsinhalt, wenn diese zumindest nach Vertragsabschluss schriftlich zur Verfügung gestellt werden.",
+          "correctAnswer": false,
+          "topic": "Vertragsabschluss",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "AGB müssen vor oder bei Vertragsabschluss wirksam einbezogen werden, etwa durch deutlichen Hinweis und Möglichkeit der Kenntnisnahme. Eine bloß nachträgliche schriftliche Zurverfügungstellung genügt für die Einbeziehung nicht."
+        },
+        {
+          "id": "Q249",
+          "statement": "Im Öffnungszeitengesetz ist festgelegt, um welche Uhrzeit Geschäfte am Abend spätestens schließen müssen. Wird gegen die Regelungen des Öffnungszeitengesetzes verstoßen, so liegt Gesetzwidrigkeit iSd § 879 ABGB vor, die den Vertrag nichtig macht.",
+          "correctAnswer": false,
+          "topic": "Vertragsabschluss",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Verstöße gegen öffentlich-rechtliche Vorschriften wie Öffnungszeiten führen nicht automatisch zur zivilrechtlichen Nichtigkeit des Kaufvertrags nach § 879 ABGB; die Sanktion erfolgt primär verwaltungsrechtlich."
+        },
+        {
+          "id": "Q250",
+          "statement": "Nachträgliche Unmöglichkeit liegt dann vor, wenn bereits im Zeitpunkt des Vertragsabschlusses feststeht, dass die Leistungserbringung unmöglich ist.",
+          "correctAnswer": false,
+          "topic": "Vertragsabschluss",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Ist die Leistung bereits bei Vertragsabschluss unmöglich, spricht man von anfänglicher Unmöglichkeit. Nachträgliche Unmöglichkeit liegt erst vor, wenn die Leistung erst nach Vertragsabschluss unmöglich wird."
+        },
+        {
+          "id": "Q251",
+          "statement": "Landesgesetze werden von den jeweiligen Landtagen erlassen, welche durch das Volk gewählt werden.",
+          "correctAnswer": true,
+          "topic": "Verfassungsrecht",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "In den Bundesländern üben die demokratisch vom Landesvolk gewählten Landtage die Landesgesetzgebung aus."
+        },
+        {
+          "id": "Q252",
+          "statement": "Vom Schutzbereich der Eigentumsfreiheit sind auch öffentlich-rechtliche Ansprüche auf eine Leistung erfasst.",
+          "correctAnswer": true,
+          "topic": "Verfassungsrecht",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Eigentumsfreiheit erfasst nicht nur privatrechtliches Eigentum, sondern auch vermögenswerte öffentlich-rechtliche Positionen, sofern sie hinreichend verfestigt sind."
+        },
+        {
+          "id": "Q253",
+          "statement": "Der Nationalrat kann mit einem Misstrauensvotum die Entlassung eines Bundesministers veranlassen.",
+          "correctAnswer": true,
+          "topic": "Verfassungsrecht",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Spricht der Nationalrat einem Bundesminister das Misstrauen aus, muss der Bundespräsident diesen entlassen. Das Misstrauensvotum ist daher ein starkes parlamentarisches Kontrollinstrument."
+        },
+        {
+          "id": "Q254",
+          "statement": "Wenn die Kärntner Bauordnung abweichende Regelungen von der Wiener Bauordnung enthält, so stellt dies einen Verstoß gegen den Gleichheitsgrundsatz dar.",
+          "correctAnswer": false,
+          "topic": "Verfassungsrecht",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Die Bundesländer verfügen über eigene Gesetzgebungskompetenzen und können in ihren Landesgesetzen unterschiedliche Regelungen vorsehen, ohne damit allein den Gleichheitssatz zu verletzen."
+        },
+        {
+          "id": "Q255",
+          "statement": "Die österreichischen Bundesländer haben keinerlei Kompetenz zum Abschluss von Staatsverträgen.",
+          "correctAnswer": false,
+          "topic": "Verfassungsrecht",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Länder können in ihrem Kompetenzbereich auch Staatsverträge abschließen, benötigen dafür aber in der Regel Zustimmung oder Genehmigung des Bundes."
+        },
+        {
+          "id": "Q256",
+          "statement": "Ein Flächenwidmungsplan kann von Bürgerinnen und Bürgern direkt beim Verfassungsgerichtshof durch einen Individualantrag auf Normenkontrolle angefochten werden.",
+          "correctAnswer": true,
+          "topic": "Verwaltungsrecht, EU-Recht",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Flächenwidmungspläne sind Verordnungen. Unter bestimmten Voraussetzungen (insbesondere unmittelbare Betroffenheit und Fehlen eines anderen Rechtswegs) ist ein Individualantrag auf Aufhebung beim VfGH möglich."
+        },
+        {
+          "id": "Q257",
+          "statement": "Zu den verbindlichen sekundärrechtlichen Rechtsakten der EU zählen die Richtlinie, die Verordnung und der Beschluss.",
+          "correctAnswer": true,
+          "topic": "Verwaltungsrecht, EU-Recht",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Art. 288 AEUV nennt Verordnung, Richtlinie und Beschluss als verbindliche Sekundärrechtsakte der EU, ergänzt durch Empfehlungen und Stellungnahmen als unverbindliche Akte."
+        },
+        {
+          "id": "Q258",
+          "statement": "Richtlinien der EU richten sich aufgrund ihrer unmittelbaren Anwendbarkeit ausschließlich an die Unionsbürger.",
+          "correctAnswer": false,
+          "topic": "Verwaltungsrecht, EU-Recht",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Richtlinien richten sich primär an die Mitgliedstaaten und verpflichten diese zur Umsetzung; unmittelbare Wirkung zugunsten von Einzelnen ist nur ausnahmsweise möglich."
+        },
+        {
+          "id": "Q259",
+          "statement": "Die Allgemeinen Rechtsgrundsätze zählen zum Sekundärrecht der EU.",
+          "correctAnswer": false,
+          "topic": "Verwaltungsrecht, EU-Recht",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Allgemeine Rechtsgrundsätze sind Teil des ungeschriebenen Primärrechts und werden vom EuGH als eigenständige Rechtsquelle herangezogen."
+        },
+        {
+          "id": "Q260",
+          "statement": "Ein Bescheid, auf dem die Bezeichnung „Bescheid“ nicht angeführt ist, ist absolut nichtig.",
+          "correctAnswer": false,
+          "topic": "Verwaltungsrecht, EU-Recht",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Die Bezeichnung als Bescheid ist kein zwingendes Gültigkeitserfordernis; entscheidend sind Inhalt, Spruch und Zustellung. Fehlende Bezeichnung macht den Bescheid nicht automatisch nichtig."
+        },
+        {
+          "id": "Q261",
+          "statement": "Bei der teleologischen Interpretation werden vor allem die Äußerungen in den Materialien (Regierungsvorlage, Ausschussbericht etc) zur Klarstellung des maßgeblichen Sinngehalts einer Norm herangezogen.",
+          "correctAnswer": false,
+          "topic": "Rechtsbegriff, Interpretation, Rechtspersonen",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Die Heranziehung von Materialien ist typisch für die historische Interpretation. Teleologische Interpretation orientiert sich dagegen am Zweck und Ziel der Norm."
+        },
+        {
+          "id": "Q262",
+          "statement": "Wenn das ABGB in § 922 bestimmt, dass der Übergeber einer Sache dafür Gewähr zu leisten hat, dass diese dem Vertrag entspricht (= Gewährleistung), so handelt es sich hierbei um formelles Recht.",
+          "correctAnswer": false,
+          "topic": "Rechtsbegriff, Interpretation, Rechtspersonen",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "§ 922 ABGB regelt inhaltlich Rechte und Pflichten der Vertragsparteien und ist damit materielles Privatrecht, nicht bloß Verfahrensrecht."
+        },
+        {
+          "id": "Q263",
+          "statement": "Nach der Subjektstheorie zählt ein Vorgang dann zum öffentlichen Recht, wenn ein mit Hoheitsgewalt ausgestatteter Rechtsträger in Ausübung dieser Hoheitsgewalt handelt.",
+          "correctAnswer": true,
+          "topic": "Rechtsbegriff, Interpretation, Rechtspersonen",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Die Subjektstheorie stellt auf die Beteiligung eines Trägers hoheitlicher Gewalt ab, der in seiner öffentlich-rechtlichen Funktion tätig wird."
+        },
+        {
+          "id": "Q264",
+          "statement": "Die Gemeinde Reifnitz ist eine juristische Person des öffentlichen Rechts.",
+          "correctAnswer": true,
+          "topic": "Rechtsbegriff, Interpretation, Rechtspersonen",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Gemeinden sind Gebietskörperschaften mit Selbstverwaltung und damit juristische Personen des öffentlichen Rechts."
+        },
+        {
+          "id": "Q265",
+          "statement": "§ 125 StGB bestimmt: „Wer eine fremde Sache zerstört …, ist mit Freiheitsstrafe bis zu sechs Monaten … zu bestrafen.“ Den ersten Teil der Rechtsnorm („Wer eine fremde Sache zerstört …“) bezeichnet man als Tatbestand, den zweiten Teil („ist mit einer Freiheitsstrafe …“) als Sachverhalt.",
+          "correctAnswer": false,
+          "topic": "Rechtsbegriff, Interpretation, Rechtspersonen",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Der erste Teil ist der Tatbestand, der zweite Teil ist die Rechtsfolge. ‚Sachverhalt‘ bezeichnet hingegen den tatsächlichen Lebenssachverhalt."
+        },
+        {
+          "id": "Q266",
+          "statement": "Unter der Handlungsfähigkeit versteht man die Fähigkeit, Träger von Rechten und Pflichten sein zu können.",
+          "correctAnswer": false,
+          "topic": "Privatrecht - Begriff, Rechts- und Handlungsfähigkeit",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Die Fähigkeit, Träger von Rechten und Pflichten zu sein, ist Rechtsfähigkeit. Handlungsfähigkeit ist die Fähigkeit, durch eigenes Handeln Rechte und Pflichten zu begründen (zB Geschäftsfähigkeit)."
+        },
+        {
+          "id": "Q267",
+          "statement": "Kauft der 4-jährige Moritz um 1€ einen Liebesroman und zahlt sogleich, so kommt gem § 170 Abs 3 ABGB ausnahmsweise ein gültiger Kaufvertrag zustande.",
+          "correctAnswer": false,
+          "topic": "Privatrecht - Begriff, Rechts- und Handlungsfähigkeit",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Kinder unter 7 Jahren sind geschäftsunfähig; entgeltliche Verträge kommen ohne gesetzliche Vertretung grundsätzlich nicht wirksam zustande. § 170 Abs 3 ABGB rechtfertigt hier keinen gültigen Vertragsschluss."
+        },
+        {
+          "id": "Q268",
+          "statement": "Der 83-jährige Gustav ist bereits ziemlich gebrechlich, geistig jedoch noch vollkommen fit. Kauft er bei einem Juwelier eine goldene Uhr um 1.000 €, so kommt dieser Vertrag gültig zustande.",
+          "correctAnswer": true,
+          "topic": "Privatrecht - Begriff, Rechts- und Handlungsfähigkeit",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Entscheidend für Geschäftsfähigkeit ist die geistige Entscheidungsfähigkeit, nicht das körperliche Alter oder Gebrechlichkeit. Ist Gustav einsichts- und urteilsfähig, kann er wirksam Verträge schließen."
+        },
+        {
+          "id": "Q269",
+          "statement": "Beschränkungen der Privatautonomie – verstanden als die Freiheit, die rechtlichen Beziehungen zur Umwelt nach eigenem Willen frei zu gestalten – sind als Eingriff in die Eigentumsfreiheit jedenfalls verfassungswidrig.",
+          "correctAnswer": false,
+          "topic": "Privatrecht - Begriff, Rechts- und Handlungsfähigkeit",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Die Privatautonomie kann durch Gesetze im öffentlichen Interesse (zB Konsumentenschutz, Mieterschutz) zulässig beschränkt werden; ein verfassungswidriger Eingriff liegt nicht automatisch vor."
+        },
+        {
+          "id": "Q270",
+          "statement": "Der 13-jährige Patrick schlägt aus Langeweile die Fensterscheibe eines Autos ein. Aufgrund mangelnder Deliktsfähigkeit kann von Patrick keinesfalls Ersatz verlangt werden.",
+          "correctAnswer": false,
+          "topic": "Privatrecht - Begriff, Rechts- und Handlungsfähigkeit",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Auch Minderjährige können deliktsfähig sein, wenn sie die nötige Einsichts- und Urteilsfähigkeit besitzen. Bei einem 13-Jährigen ist das grundsätzlich anzunehmen; ein Schadenersatzanspruch ist daher nicht ausgeschlossen."
+        },
+        {
+          "id": "Q271",
+          "statement": "§ 5 Abs 1 StVO bestimmt: „Wer sich in einem durch Alkohol oder Suchtgift beeinträchtigten Zustand befindet, darf ein Fahrzeug weder lenken noch in Betrieb nehmen.“ Es handelt sich hierbei um eine Verhaltensnorm.",
+          "correctAnswer": true,
+          "topic": "Rechtsbegriff, Geltungsbereich, Stufenbau",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Die Norm richtet sich unmittelbar an Verkehrsteilnehmer:innen und schreibt ein bestimmtes Verhalten vor bzw. verbietet dieses; sie ist daher eine typische Verhaltensnorm."
+        },
+        {
+          "id": "Q272",
+          "statement": "Bundesgesetze sind grundsätzlich abstrakte und individuelle Normen.",
+          "correctAnswer": false,
+          "topic": "Rechtsbegriff, Geltungsbereich, Stufenbau",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Gesetze sind typischerweise abstrakt-generelle Normen, also für eine Vielzahl von Fällen und Personenkreisen gedacht, nicht individuell-konkrete Regelungen."
+        },
+        {
+          "id": "Q273",
+          "statement": "Unter der Verfassungsfunktion der Rechtsordnung versteht man, dass der Staat in Ausübung seiner staatlichen Gewalt an das Recht gebunden ist.",
+          "correctAnswer": true,
+          "topic": "Rechtsbegriff, Geltungsbereich, Stufenbau",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Eine zentrale Funktion der Rechtsordnung im Rechtsstaat ist es, staatliches Handeln an Recht und Gesetz zu binden und so Macht zu begrenzen."
+        },
+        {
+          "id": "Q274",
+          "statement": "Das Außerkrafttreten eines einfachen Gesetzes kann auch vom Verfassungsgerichtshof im Rahmen eines Gesetzesprüfungsverfahrens angeordnet werden.",
+          "correctAnswer": true,
+          "topic": "Rechtsbegriff, Geltungsbereich, Stufenbau",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Stellt der VfGH die Verfassungswidrigkeit eines Gesetzes fest, hebt er es ganz oder teilweise auf; dadurch tritt es außer Kraft."
+        },
+        {
+          "id": "Q275",
+          "statement": "Innerstaatliche Verordnungen und Verordnungen der EU stehen im Stufenbau der Rechtsordnung auf gleicher Ebene.",
+          "correctAnswer": false,
+          "topic": "Rechtsbegriff, Geltungsbereich, Stufenbau",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "EU-Verordnungen gehören der Unionsrechtsordnung an und genießen Anwendungsvorrang; sie stehen nicht einfach auf derselben Rangstufe wie innerstaatliche Verordnungen."
+        },
+        {
+          "id": "Q276",
+          "statement": "Allgemeine Angaben über den Grundbuchskörper (zB Grundstücksnummer) sind im C-Blatt des Grundbuches eingetragen.",
+          "correctAnswer": false,
+          "topic": "Besonderes Vertragsrecht, Schadenersatzrecht, Sachenrecht",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Solche Angaben (Grundstücksnummer, Fläche, Widmung) stehen im A-Blatt (Gutsbestandsblatt). Im C-Blatt werden Belastungen (zB Hypotheken, Servituten) eingetragen."
+        },
+        {
+          "id": "Q277",
+          "statement": "„Innehabung“ im Sinne des Sachenrechts bedeutet, dass eine Person ein Vollrecht an der Sache hat. Sie kann tun und lassen, was sie will und jeden anderen davon ausschließen.",
+          "correctAnswer": false,
+          "topic": "Besonderes Vertragsrecht, Schadenersatzrecht, Sachenrecht",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Die bloße Innehabung ist die tatsächliche Sachherrschaft. Das Vollrecht, andere auszuschließen und umfassend zu verfügen, kennzeichnet das Eigentum."
+        },
+        {
+          "id": "Q278",
+          "statement": "Nach der Adäquanztheorie haftet der Schädiger dann nicht für den eingetretenen Schaden, wenn sein Verhalten nur aufgrund einer Verkettung außergewöhnlicher Umstände zum Schadenseintritt geführt hat.",
+          "correctAnswer": true,
+          "topic": "Besonderes Vertragsrecht, Schadenersatzrecht, Sachenrecht",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Adäquanz verlangt, dass der Schaden nach allgemeiner Lebenserfahrung nicht völlig ungewöhnlich ist. Führt erst eine extreme, atypische Zufallskette zum Schaden, fehlt es an der Adäquanz."
+        },
+        {
+          "id": "Q279",
+          "statement": "Malermeisterin Julia schickt ihre Gehilfin Christl, um die Wohnung ihres Kunden Konstantin auszumalen. Dabei stößt Christl aus Versehen den Farbkübel um und der Fußboden des Konstantin wird vollkommen mit Farbe überflutet. Konstantin kann nur von der Gehilfin Christl, nicht jedoch von Julia Schadenersatz verlangen.",
+          "correctAnswer": false,
+          "topic": "Besonderes Vertragsrecht, Schadenersatzrecht, Sachenrecht",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Christl ist Erfüllungsgehilfin der Julia; diese haftet gegenüber ihrem Vertragspartner für Verschulden der Gehilfin wie für eigenes Verschulden."
+        },
+        {
+          "id": "Q280",
+          "statement": "Barbara erteilt der Dach-GmbH den „Auftrag“, ihr Dach zu decken. Da tatsächliche Handlungen geschuldet werden, liegt zwischen Barbara und der Dach-GmbH ein Werkvertrag vor.",
+          "correctAnswer": true,
+          "topic": "Besonderes Vertragsrecht, Schadenersatzrecht, Sachenrecht",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Beim Werkvertrag wird ein bestimmter Erfolg (fertig gedecktes Dach) geschuldet; die Dachdeckung ist typischerweise Gegenstand eines Werkvertrags."
+        },
+        {
+          "id": "Q281",
+          "statement": "Gegen eine Entscheidung des Landesverwaltungsgerichts kann grundsätzlich das Rechtsmittel der Revision an das Oberlandesgericht erhoben werden.",
+          "correctAnswer": false,
+          "topic": "Verwaltungsrecht",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Gegen Erkenntnisse der Landesverwaltungsgerichte ist als ordentliches Rechtsmittel die Revision an den Verwaltungsgerichtshof möglich, nicht an ein Oberlandesgericht."
+        },
+        {
+          "id": "Q282",
+          "statement": "Gegen einen Akt unmittelbarer Befehls- und Zwangsgewalt steht das Rechtsmittel der Maßnahmenbeschwerde an das Verwaltungsgericht zur Verfügung.",
+          "correctAnswer": true,
+          "topic": "Verwaltungsrecht",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Polizeiliche Befehls- und Zwangsakte ohne Bescheid können mit Maßnahmenbeschwerde beim zuständigen Verwaltungsgericht angefochten werden."
+        },
+        {
+          "id": "Q283",
+          "statement": "Wird ein Bürger durch ein hoheitlich handelndes Verwaltungsorgan rechtswidrig und schuldhaft geschädigt, so kommt ein Amtshaftungsanspruch in Betracht.",
+          "correctAnswer": true,
+          "topic": "Verwaltungsrecht",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Nach dem Amtshaftungsgesetz haftet der Rechtsträger (zB Bund, Land, Gemeinde) für rechtswidriges und schuldhaftes Verhalten seiner Organe in Vollziehung der Gesetze."
+        },
+        {
+          "id": "Q284",
+          "statement": "Kernaufgaben der staatlichen Hoheitsverwaltung dürfen nicht auf ausgegliederte Rechtsträger übertragen werden.",
+          "correctAnswer": true,
+          "topic": "Verwaltungsrecht",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Bestimmte zentrale Hoheitsaufgaben (zB klassische Eingriffsverwaltung, Polizei, Justiz) sind typischerweise von staatlichen Organen selbst wahrzunehmen und können nicht schrankenlos in privatrechtliche Organisationsformen ausgelagert werden."
+        },
+        {
+          "id": "Q285",
+          "statement": "Das Legalitätsprinzip stellt einen wesentlichen Grundsatz der Verwaltung dar.",
+          "correctAnswer": true,
+          "topic": "Verwaltungsrecht",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Art. 18 B-VG verpflichtet die Vollziehung an Gesetz und Verordnung und bildet damit einen Grundpfeiler des rechtsstaatlichen Verwaltungsrechts."
+        },
+        {
+          "id": "Q286",
+          "statement": "Das Recht auf Gewährleistung besteht nur dann, wenn den Übergeber ein Verschulden am Mangel der Sache trifft.",
+          "correctAnswer": false,
+          "topic": "Irrtum, Stellvertretung, Schuldverhältnis, Leistungsstörungen",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Gewährleistung ist verschuldensunabhängig; sie knüpft allein an das Vorliegen eines Mangels bei Übergabe an, unabhängig von einem Verschulden des Übergebers."
+        },
+        {
+          "id": "Q287",
+          "statement": "Wurde eine Bringschuld vereinbart und scheitert die Übergabe der Kaufsache deshalb, weil der Käufer zum vereinbarten Zeitpunkt nicht anwesend war, so liegt Gläubigerverzug vor.",
+          "correctAnswer": true,
+          "topic": "Irrtum, Stellvertretung, Schuldverhältnis, Leistungsstörungen",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Der Gläubigerverzug liegt vor, wenn der Gläubiger die ordnungsgemäß angebotene Leistung nicht annimmt, etwa weil er bei einer Bringschuld zum vereinbarten Zeitpunkt nicht anwesend ist."
+        },
+        {
+          "id": "Q288",
+          "statement": "Gert hat Dieter die Vollmacht erteilt, seine chinesische Vase zu verkaufen. Intern wurde vereinbart, dass Dieter bei einem Kaufpreis von weniger als € 2.500,-- nur mit vorheriger Zustimmung des Gert verkaufen darf. Verkauft Dieter die Vase sodann um einen Betrag von 2.300,-- € an Klaus, ohne die Zustimmung Gerts einzuholen, so kommt ohne die nachträgliche Zustimmung des Gert kein gültiger Vertrag zustande.",
+          "correctAnswer": false,
+          "topic": "Irrtum, Stellvertretung, Schuldverhältnis, Leistungsstörungen",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Die interne Weisung betrifft das Innenverhältnis. Im Außenverhältnis besteht die Vollmacht fort; Klaus darf auf die erteilte Vollmacht vertrauen, der Vertrag kommt daher zustande."
+        },
+        {
+          "id": "Q289",
+          "statement": "Herbert beauftragt seinen Mitarbeiter Günther, er soll in Herberts Namen bei Gregor eine Uhr um maximal € 400,-- kaufen. Kauft Günther bei Gregor im Namen des Herbert einen MPR3-Player um € 250,--, kommt das Geschäft zwischen Herbert und Gregor wirksam zustande.",
+          "correctAnswer": false,
+          "topic": "Irrtum, Stellvertretung, Schuldverhältnis, Leistungsstörungen",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Die Vollmacht ist inhaltlich auf den Kauf einer Uhr beschränkt. Der Erwerb eines MP3-Players überschreitet diese Vertretungsmacht; ohne Genehmigung Herberts kommt kein wirksamer Vertrag mit ihm zustande."
+        },
+        {
+          "id": "Q290",
+          "statement": "Axel kauft für seine Verlobte einen Ring. Als er heimkommt, stellt er fest, dass sie ihn verlassen hat. Axel will das Geschäft über den Ring rückgängig machen. Es liegt ein Geschäftsirrtum vor.",
+          "correctAnswer": false,
+          "topic": "Irrtum, Stellvertretung, Schuldverhältnis, Leistungsstörungen",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Axel irrt über seine Motivation (Fortbestand der Beziehung), nicht über den Inhalt des Geschäfts. Das ist ein Motivirrtum, der grundsätzlich nicht zur Anfechtung berechtigt."
+        },
+        {
+          "id": "Q291",
+          "statement": "Durch den Beitritt Österreichs zur Europäischen Union wurde in das demokratische, das rechtsstaatliche und das bundesstaatliche Grundprinzip eingegriffen, weshalb zwingend eine Volksabstimmung durchzuführen war.",
+          "correctAnswer": true,
+          "topic": "Verfassungsrecht",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Der EU-Beitritt stellte eine Gesamtänderung der Bundesverfassung dar; nach Art. 44 Abs. 3 B-VG ist eine Gesamtänderung zwingend einer Volksabstimmung zu unterziehen."
+        },
+        {
+          "id": "Q292",
+          "statement": "Verfassungsrecht im materiellen Sinn erfasst alle Normen, die nach einem besonderen Erzeugungsverfahren (erhöhtes Anwesenheits- und Beschlussquorum, ausdrückliche Bezeichnung als Verfassungsrecht) geschaffen werden.",
+          "correctAnswer": false,
+          "topic": "Verfassungsrecht",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Das beschreibt formelles Verfassungsrecht. Materielles Verfassungsrecht knüpft inhaltlich an verfassungsrelevante Materien (Organisation, Grundrechte etc.) an, unabhängig vom Erzeugungsverfahren."
+        },
+        {
+          "id": "Q293",
+          "statement": "Das republikanische Grundprinzip besagt, dass die Staatsgewalt zwischen Bund und Ländern aufgeteilt ist.",
+          "correctAnswer": false,
+          "topic": "Verfassungsrecht",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Die Aufteilung der Staatsgewalt zwischen Bund und Ländern ist Ausdruck des bundesstaatlichen Grundprinzips. Das republikanische Prinzip betrifft insbesondere die Wahl und zeitliche Begrenzung des Staatsoberhaupts."
+        },
+        {
+          "id": "Q294",
+          "statement": "Bei der mittelbaren Bundesverwaltung werden Angelegenheiten, die dem Bund zur Vollziehung zugewiesen sind, auch von Verwaltungsbehörden der Länder vollzogen.",
+          "correctAnswer": true,
+          "topic": "Verfassungsrecht",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "In der mittelbaren Bundesverwaltung erlässt der Bund die Gesetze, die Vollziehung erfolgt aber durch Landesbehörden als Organe des Bundes."
+        },
+        {
+          "id": "Q295",
+          "statement": "Die Abgeordneten des Nationalrates werden vom Bundesrat gewählt.",
+          "correctAnswer": false,
+          "topic": "Verfassungsrecht",
+          "source": "Prüfungsfragen 1. Klausurtermin WS18",
+          "points": 1,
+          "explanation": "Die Abgeordneten des Nationalrats werden vom Bundesvolk in allgemeiner, gleicher, direkter und geheimer Wahl gewählt, nicht vom Bundesrat."
+        }
+      ]
+    

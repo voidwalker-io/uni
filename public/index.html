@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <title>Recht – Prüfungs-Quiz</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <header class="app-header">
+      <div>
+        <h1>Recht – Prüfungs-Quiz</h1>
+        <p class="subtitle">
+          Training mit Altklausuren (Wahr/Falsch) inkl. Lösung, Erklärung und Notenübersicht.
+        </p>
+      </div>
+    </header>
+
+    <main class="app-main">
+      <!-- Steuerungsbereich -->
+      <section id="control-panel" class="card">
+        <h2>Einstellungen</h2>
+        <form id="settings-form" class="settings-form">
+          <div class="form-row">
+            <label for="question-count">
+              Anzahl Fragen für diese Übungseinheit
+            </label>
+            <input
+              type="number"
+              id="question-count"
+              min="1"
+              step="1"
+              required
+            />
+          </div>
+
+          <div class="form-row form-row-inline">
+            <button type="submit" class="btn primary-btn">
+              Quiz starten
+            </button>
+            <span id="pool-info" class="info-text">
+              Lade Fragenpool …
+            </span>
+          </div>
+        </form>
+      </section>
+
+      <!-- Quiz-Bereich -->
+      <section id="quiz-section" class="card hidden">
+        <div class="quiz-header">
+          <h2>Quiz</h2>
+          <div id="quiz-progress" class="quiz-progress">
+            0 / 0 beantwortet
+          </div>
+        </div>
+        <div id="quiz-container" class="quiz-container">
+          <!-- Dynamisch gefüllte Fragenkarten -->
+        </div>
+
+        <div class="quiz-actions">
+          <button id="evaluate-btn" class="btn primary-btn">
+            Quiz auswerten
+          </button>
+          <span id="quiz-hint" class="hint-text">
+            Die Auswertung ist erst möglich, wenn alle Fragen beantwortet sind.
+          </span>
+        </div>
+      </section>
+
+      <!-- Ergebnis-Bereich -->
+      <section id="results-section" class="card hidden">
+        <h2>Auswertung</h2>
+        <div id="results-summary" class="results-summary">
+          <!-- Dynamische Zusammenfassung -->
+        </div>
+        <div id="results-table-container" class="results-table-container">
+          <!-- Tabelle mit Fragen, Antworten, Punkten -->
+        </div>
+      </section>
+    </main>
+
+    <footer class="app-footer">
+      <small>
+        Lern-Tool für Prüfungen in Recht – basierend auf Altklausuren (True/False).
+      </small>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
+
